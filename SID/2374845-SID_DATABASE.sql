@@ -1,3 +1,3 @@
 CREATE TABLE STUDENT(
-    NSHE
+    NSHE_ID
 )
