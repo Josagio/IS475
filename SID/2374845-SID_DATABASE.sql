@@ -4,5 +4,5 @@ CREATE TABLE STUDENT(
     Last_Name varchar(15) not null,
     Enrollment char(1),
     GPA decimal(1.2),
-    Student_Type
+    Student_Type varchar
 )
