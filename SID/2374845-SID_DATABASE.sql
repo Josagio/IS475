@@ -10,5 +10,5 @@ CREATE TABLE STUDENT(
 
 CREATE TABLE STU_UNDERGRAD(
     Minor varchar(55) not null,
-    Internship_Exp
+    Internship_Exp varchar(55)
 )
