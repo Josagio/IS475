@@ -1,3 +1,3 @@
 CREATE TABLE STUDENT(
-    NSHE_ID char(10) 
+    NSHE_ID char(10) primary
 )
