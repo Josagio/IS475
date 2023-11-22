@@ -6,3 +6,6 @@ CREATE TABLE STUDENT(
     GPA decimal(1.2),
     Student_Type varchar(1)
 )
+
+
+C
