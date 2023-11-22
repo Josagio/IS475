@@ -9,5 +9,5 @@ CREATE TABLE STUDENT(
 
 
 CREATE TABLE STU_UNDERGRAD(
-    Minor varchar
+    Minor varchar(55)
 )
