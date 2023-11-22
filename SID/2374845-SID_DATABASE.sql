@@ -2,5 +2,5 @@ CREATE TABLE STUDENT(
     NSHE_ID char(10) primary key,
     First_Name varchar(15) not null,
     Last_Name varchar(15) not null,
-    Enrollment char(1)
+    Enrollment char(1),
 )
