@@ -5,9 +5,9 @@ CREATE TABLE STUDENT(
     Enrollment char(1),
     GPA decimal(1.2),
     Student_Type varchar(1)
-)
+);
 
 
 CREATE TABLE STU_UNDERGRAD(
-    
+
 )
