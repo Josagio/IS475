@@ -57,7 +57,7 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 ('10033', 'Technology', 'Tech Titans'),
 ('10034', 'Sports', 'Volleyball Vipers'),
 ('10035', 'Science', 'Chemistry Club'),
-('CLUB36', 'Art', 'Cinema Club'),
+('C36', 'Art', 'Cinema Club'),
 ('CLUB37', 'Music', 'Guitar Guild'),
 ('CLUB38', 'Literature', 'Drama Club'),
 ('CLUB39', 'Community Service', 'Community Builders'),
