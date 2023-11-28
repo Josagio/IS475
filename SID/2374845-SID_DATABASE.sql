@@ -72,4 +72,4 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 ('10048', 'Sports', 'Golf Gurus'),
 ('10049', 'Science', 'Astronomy Club'),
 ('10050', 'Art', 'Mural Masters');)
-)
+);
