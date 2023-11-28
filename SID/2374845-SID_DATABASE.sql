@@ -23,5 +23,5 @@ CREATE TABLE CLUB(
 
 CREATE TABLE CLUB( 
     Club_ID char(5) NOT NULL Primary Key,
-    Purpose varca
+    Purpose varchar 
 )
