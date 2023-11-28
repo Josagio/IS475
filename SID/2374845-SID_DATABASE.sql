@@ -77,4 +77,4 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 CREATE TABLE STUDENT_PHONE (
     NSHE_ID char (10) references STUDENT(NSHE_ID),
     Phone_Number (char) primary key
-)
+);
