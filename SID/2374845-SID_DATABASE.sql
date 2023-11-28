@@ -22,5 +22,4 @@ CREATE TABLE CLUB(
 );
 
 INSERT INTO CLUB(
-    
 )
