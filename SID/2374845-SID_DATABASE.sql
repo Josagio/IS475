@@ -34,7 +34,7 @@ CREATE TABLE STUDENT_PHONE(
 ####DATA ENTRY FOR TABLES
 
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
-(('10001', 'Sports', 'Team A'),
+('10001', 'Sports', 'Team A'),
 ('10002', 'Art', 'Painters'),
 ('10003', 'Music', 'Melody Makers'),
 ('10004', 'Science', 'Tech Explorers'),
