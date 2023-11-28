@@ -22,5 +22,5 @@ CREATE TABLE CLUB(
 
 
 CREATE TABLE CLUB( 
-    Club_ID char(5)
+    Club_ID char(5) NOT NULL P
 )
