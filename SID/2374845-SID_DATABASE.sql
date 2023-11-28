@@ -22,5 +22,5 @@ CREATE TABLE CLUB(
 
 
 CREATE TABLE CLUB( 
-    
+    C
 )
