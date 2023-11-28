@@ -29,7 +29,7 @@ CREATE TABLE CLUB(
 );
 
 Alter Table Club(
-    Club_Name varchar (30)  
+    Club_Name varchar (30) NOT NULL 
 );
 
 CREATE TABLE STUDENT_PHONE(
