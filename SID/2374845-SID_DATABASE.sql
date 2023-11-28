@@ -14,11 +14,6 @@ CREATE TABLE STU_UNDERGRAD(
     NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
 );
 
-CREATE TABLE CLUB(
-    Club_ID char(5) NOT NULL Primary Key,
-    Purpose varchar (50),
-    Club_Name varchar (8) NOT NULL, 
-
 
 
 CREATE TABLE CLUB( 
