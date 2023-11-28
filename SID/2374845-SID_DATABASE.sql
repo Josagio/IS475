@@ -29,7 +29,7 @@ CREATE TABLE CLUB(
 );
 
 Alter Table Club(
-    
+    Club
 );
 
 CREATE TABLE STUDENT_PHONE(
