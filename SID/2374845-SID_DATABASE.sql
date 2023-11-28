@@ -73,8 +73,3 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 ('10049', 'Science', 'Astronomy Club'),
 ('10050', 'Art', 'Mural Masters');)
 );
-
-CREATE TABLE STUDENT_PHONE (
-    NSHE_ID char (10) references STUDENT(NSHE_ID),
-    Phone_Number (char) primary key
-);
