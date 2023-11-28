@@ -29,8 +29,8 @@ CREATE TABLE CLUB(
 );
 
 Alter Table Club(
-    
-)
+
+);
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
