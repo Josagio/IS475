@@ -28,7 +28,9 @@ CREATE TABLE CLUB(
     Club_Name varchar (8) NOT NULL
 );
 
-Alter Table Club()
+Alter Table Club(
+    
+)
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
