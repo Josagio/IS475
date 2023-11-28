@@ -20,3 +20,5 @@ CREATE TABLE CLUB(
     Purpose varchar (50),
     Club_Name varchar (8) NOT NULL
 );
+
+INSERT
