@@ -79,5 +79,3 @@ CREATE TABLE STUDENT_PHONE(
     Phone_Number char(10) primary key
 
 );
-
-I
