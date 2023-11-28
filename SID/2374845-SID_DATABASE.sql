@@ -29,6 +29,10 @@ CREATE TABLE STUDENT_PHONE(
 
 );
 
+
+
+
+
 INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 (('10001', 'Sports', 'Team A'),
 ('10002', 'Art', 'Painters'),
