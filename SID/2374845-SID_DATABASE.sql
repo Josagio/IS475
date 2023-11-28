@@ -74,4 +74,4 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 ('10050', 'Art', 'Mural Masters');)
 );
 
-CREATE TABLE STUDENT
+CREATE TABLE STUDENT_
