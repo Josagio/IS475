@@ -27,7 +27,7 @@ CREATE TABLE CLUB(
     Purpose varchar (50),
     Club_Name varchar (8) NOT NULL
 );
-
+###
 ##Alter Table CLUB(
   ##  Club_Name varchar (30) NOT NULL 
 ##);
