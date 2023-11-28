@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS order_management2 ;
+DROP DATABASE IF EXISTS SID ;
 CREATE DATABASE IF NOT EXISTS order_management2 ;
 USE order_management2;
 
