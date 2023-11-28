@@ -29,7 +29,7 @@ CREATE TABLE CLUB(
 );
 
 Alter Table Club(
-    Club_Name 
+    Club_Name var
 );
 
 CREATE TABLE STUDENT_PHONE(
