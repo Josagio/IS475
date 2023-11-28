@@ -21,5 +21,5 @@ CREATE TABLE CLUB(
     Club_Name varchar (8) NOT NULL
 );
 
-INSERT INTO CLUB(Club_ID, P
+INSERT INTO CLUB(Club_ID, Purpose
 )
