@@ -29,7 +29,7 @@ CREATE TABLE CLUB(
 );
 
 Alter Table Club(
-    Club_Name var
+    Club_Name varchar
 );
 
 CREATE TABLE STUDENT_PHONE(
