@@ -21,4 +21,6 @@ CREATE TABLE CLUB(
     Club_Name varchar (8) NOT NULL
 );
 
-INSERT INTO CLUB()
+INSERT INTO CLUB(
+    
+)
