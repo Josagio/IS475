@@ -1,3 +1,9 @@
+DROP DATABASE IF EXISTS order_management2 ;
+CREATE DATABASE IF NOT EXISTS order_management2 ;
+USE order_management2;
+
+
+
 CREATE TABLE STUDENT(
     NSHE_ID char(10) primary key,
     First_Name varchar(15) not null,
