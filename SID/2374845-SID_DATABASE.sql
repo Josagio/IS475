@@ -14,4 +14,6 @@ CREATE TABLE STU_UNDERGRAD(
     NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
 );
 
-CREATE TABLE CLUB()
+CREATE TABLE CLUB(
+    C
+)
