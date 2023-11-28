@@ -21,4 +21,4 @@ CREATE TABLE CLUB(
 
 
 
-c
+C
