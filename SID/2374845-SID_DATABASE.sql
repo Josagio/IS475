@@ -22,4 +22,5 @@ CREATE TABLE CLUB(
 );
 
 INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
+
 )
