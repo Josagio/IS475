@@ -15,5 +15,5 @@ CREATE TABLE STU_UNDERGRAD(
 );
 
 CREATE TABLE CLUB(
-    C
+    Club
 )
