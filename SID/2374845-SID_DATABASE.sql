@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS SID_Database ;
 CREATE DATABASE IF NOT EXISTS SID_Database ;
-USE order_management2;
+USE SID_Database;
 
 
 
