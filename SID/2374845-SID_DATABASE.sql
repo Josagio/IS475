@@ -15,5 +15,5 @@ CREATE TABLE STU_UNDERGRAD(
 );
 
 CREATE TABLE CLUB(
-    Club_ID char(5) NOT NULL Primary 
+    Club_ID char(5) NOT NULL Primary Key,
 )
