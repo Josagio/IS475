@@ -78,4 +78,3 @@ CREATE TABLE STUDENT_PHONE (
     NSHE_ID char (10) references STUDENT(NSHE_ID),
     Phone_Number (char) primary key
 );
-)
