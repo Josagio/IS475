@@ -23,7 +23,7 @@ CREATE TABLE CLUB(
 
 INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 (('1001', 'Sports', 'Team A'),
-('10002', 'Art', 'Painters'),
+('1002', 'Art', 'Painters'),
 ('10003', 'Music', 'Melody Makers'),
 ('10004', 'Science', 'Tech Explorers'),
 ('10005', 'Community Service', 'Helping Hands'),
