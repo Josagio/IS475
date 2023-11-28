@@ -83,7 +83,7 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 ('10047', 'Technology', 'Robotics Club'),
 ('10048', 'Sports', 'Golf Gurus'),
 ('10049', 'Science', 'Astronomy Club'),
-('10050', 'Art', 'Mural Masters');)
+('10050', 'Art', 'Mural Masters');
 
 
 INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE NUMBER) VALUES
