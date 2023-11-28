@@ -33,7 +33,7 @@ INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 ('10009', 'Science', 'Lab Rats'),
 ('10010', 'Art', 'Sculpture Society'),
 ('10011', 'Music', 'Harmony Club'),
-('CLUB12', 'Community Service', 'Kindness Crew'),
+('12', 'Community Service', 'Kindness Crew'),
 ('CLUB13', 'Technology', 'Innovators'),
 ('CLUB14', 'Sports', 'Runners Club'),
 ('CLUB15', 'Literature', 'Poetry Enthusiasts'),
