@@ -24,8 +24,8 @@ CREATE TABLE CLUB(
 INSERT INTO CLUB(Club_ID, Purpose, Club_Name) VALUES
 (('10001', 'Sports', 'Team A'),
 ('10002', 'Art', 'Painters'),
-('C', 'Music', 'Melody Makers'),
-('CLUB4', 'Science', 'Tech Explorers'),
+('10003', 'Music', 'Melody Makers'),
+('1000', 'Science', 'Tech Explorers'),
 ('CLUB5', 'Community Service', 'Helping Hands'),
 ('CLUB6', 'Sports', 'Fitness Fanatics'),
 ('CLUB7', 'Technology', 'Code Wizards'),
