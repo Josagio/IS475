@@ -18,5 +18,5 @@ CREATE TABLE CLUB(
     Club_ID char(5) NOT NULL Primary Key,
     Purpose varchar (50),
     Club_Name varchar (8) NOT NULL, 
-    
+)
 )
