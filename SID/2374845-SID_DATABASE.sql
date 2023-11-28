@@ -13,3 +13,5 @@ CREATE TABLE STU_UNDERGRAD(
     Internship_Exp varchar(35),
     NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
 );
+
+C
