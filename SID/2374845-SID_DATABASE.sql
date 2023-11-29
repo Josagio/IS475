@@ -36,7 +36,7 @@ CREATE TABLE STU_UNDERGRAD(
 CREATE TABLE CLUB( 
     Club_ID char(5) NOT NULL Primary Key,
     Purpose varchar (500),
-    Club_Name varchar () NOT NULL
+    Club_Name varchar (2) NOT NULL
 );
 
 ###DATA Update for club
