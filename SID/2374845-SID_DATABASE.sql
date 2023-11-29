@@ -128,7 +128,13 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Economics', 'Economic Research Institute', '5544332211'),
 ('Chemistry', 'Chemical Lab Innovations', '2233445566'),
 
-
+('English', 'Publishing House ABC', '7788990011'),
+('Information Technology', 'IT Solutions Provider', '2001922785'),
+('History', 'Historical Archives', '3344556677'),
+('Mathematics', 'Mathematics Research Center', '1022334455'),
+('Communication Studies', 'Media Productions Inc.', '5566768899'),
+('Industrial Engineering', 'Industrial Solutions Co.', '1122334456'),
+('Health Sciences', 'Healthcare Services Group', '5566778896');
 ('Sociology', 'Social Research Foundation', '1122334457'),
 ('Anthropology', 'Anthropological Studies Institute', '5566778895'),
 ('Environmental Science', 'Environmental Solutions Ltd.', '1122334458'),
