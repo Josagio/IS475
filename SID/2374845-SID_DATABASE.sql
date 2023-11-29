@@ -26,7 +26,7 @@ CREATE TABLE STUDENT(
 );
 
 Alter Table STUDENT
-    modify 
+    modify NSHE
 
 
 CREATE TABLE STU_UNDERGRAD(
