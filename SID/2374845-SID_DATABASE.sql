@@ -111,6 +111,7 @@ WHERE NSHE_ID='1122334459';
 
 
 -- Generated data for STU_UNDERGRAD table
+-- Generated data for STU_UNDERGRAD table
 INSERT INTO STU_UNDERGRAD VALUES 
 ('Computer Science', 'ABC Corp', '1234567890'),
 ('Marketing', 'XYZ Inc', '9876543210'),
@@ -120,7 +121,7 @@ INSERT INTO STU_UNDERGRAD VALUES
 ('Psychology', 'Mind Matters', '4455667788'),
 ('Chemistry', 'Lab Innovations', '9988776655'),
 ('Graphic Design', 'Creative Works', '6677889900'),
-('History', 'Time Travels', '1122334455'),
+('History', 'Time Travels', '1122333344'),  -- Updated NSHE_ID
 ('Biology', 'Eco Solutions', '5566778899'),
 ('Engineering', 'Tech Innovators', '3322114455'),
 ('Communications', 'Media House', '5544332211'),
@@ -494,7 +495,7 @@ INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (353535, 'Earth and Environmental Science'),
 (363636, 'Educational Psychology'),
 (373737, 'Elementary Education')
-(383838, 'Quantitative Finac');
+(383838, 'Quantitative Finance');
 
 
 
