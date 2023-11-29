@@ -100,6 +100,7 @@ INSERT INTO STUDENT VALUES
 ('5566778886', 'Jackson', 'Bryant', 'P', 3.6, 'G'),
 ('1122334467', 'Liam', 'Kelly', 'F', 3.1, 'U'),
 ('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G')
+
 ('2001699515', 'JP', 'Morgan', 'P', 3.7, 'U');
 
 #####Data deletion
