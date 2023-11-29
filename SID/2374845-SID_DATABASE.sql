@@ -183,3 +183,12 @@ VALUES --ChatGPT
     (123789, 'Neuroscience and Cognitive Behavior', 'Teaching Assistant'),
     (890123, 'Urban Planning and Sustainable Development', 'Research Assistant'),
     (456789, 'Advancements in Artificial Intelligence', 'Teaching Assistant');
+
+    -- Insert sample data into ENDORSES
+INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
+VALUES
+    (101, 201),
+    (102, 202),
+    (103, 203),
+    (104, 204),
+    (105, 205);
