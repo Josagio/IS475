@@ -123,6 +123,8 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Mechanical Engineering', 'Mechanical Design Corp.', '9988776655'),
 ('Business Administration', 'Business Consulting Group', '6677889900');
 
+
+
 ('English', 'Publishing House ABC', '7788990011'),
 ('Information Technology', 'IT Solutions Provider', '2001922785'),
 ('History', 'Historical Archives', '3344556677'),
