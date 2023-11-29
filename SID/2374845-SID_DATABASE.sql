@@ -186,7 +186,7 @@ VALUES --ChatGPT
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
-VALUES
+VALUES 
     (101, 201),
     (102, 202),
     (103, 203),
