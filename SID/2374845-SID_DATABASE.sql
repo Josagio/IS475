@@ -185,6 +185,7 @@ VALUES --ChatGPT
     (888888, 'Daniel', 'Jackson', 'Part-Time', 3.91, 'Grad'),
     (999999, 'Ava', 'White', 'Full-Time', 3.88, 'Undergrad'),
     (101010, 'Liam', 'Martinez', 'Part-Time', 3.96, 'Grad');
+    
 
 -- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis_Topic, Assistant_Type)
