@@ -155,6 +155,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Geology', 'Geological Exploration Company', '1122334467'),
 ('Theater', 'Theater Production Company', '5566778885');
 
+
 ('Civil Engineering', 'Construction Engineering Ltd.', '1122334468'); -------- error
 
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
