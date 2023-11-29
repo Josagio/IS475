@@ -110,6 +110,7 @@ SET GPA = '3.9'
 WHERE NSHE_ID='1122334459';
 
 -- Generated data for STU_UNDERGRAD table
+-- Generated data for STU_UNDERGRAD table
 INSERT INTO STU_UNDERGRAD VALUES 
 ('Computer Science', 'ABC Corp', '1234567890'),
 ('Marketing', 'XYZ Inc', '9876543210'),
@@ -152,12 +153,10 @@ INSERT INTO STU_UNDERGRAD VALUES
 ('Chemistry', 'Lab Innovations', '1122334466'),
 ('Graphic Design', 'Creative Works', '5566778886'),
 ('History', 'Time Travels', '1122334467'),
-('Biology', 'Eco Solutions', '5566778885'),
-('Engineering', 'Tech Innovators', '1122334468'),
-('Communications', 'Media House', '5566778884'),
-('Physics', 'Quantum Labs', '1122334469'),
-('Economics', 'Eco Solutions', '5566778883'),
-('Political Science', 'Government Insights', '1122334470');
+('Biology', 'Eco Solutions', '1122334468'), -- Corrected the NSHE_ID
+('Engineering', 'Tech Innovators', '1122334469'),
+('Communications', 'Media House', '1122334470'); -- Corrected the NSHE_ID
+
 
 
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
