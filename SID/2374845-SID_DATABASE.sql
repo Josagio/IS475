@@ -123,7 +123,6 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Mechanical Engineering', 'Mechanical Design Corp.', '9988776655'),
 ('Business Administration', 'Business Consulting Group', '6677889900');
 
-INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Computer Engineering', 'Software Innovations', '1122334455'),
 ('Political Science', 'Government Affairs Office', '5566778899'),
 ('Civil Engineering', 'Construction Engineering Ltd.', '5566778885'), -------- error
