@@ -25,7 +25,7 @@ CREATE TABLE STUDENT(
     Student_Type varchar(1)
 );
 
-Alter Table 
+Alter Table Cluy
 
 
 CREATE TABLE STU_UNDERGRAD(
