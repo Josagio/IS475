@@ -105,7 +105,7 @@ DELETE FROM STUDENT
 WHERE NSHE_ID='3322114455'
 
 ###UPDATE 10013
-UPDATE CLUB
+UPDATE STUDENT
 SET Purpose = 'Develop and Talk about tech innovation'
 WHERE Club_ID = '10013'
 
