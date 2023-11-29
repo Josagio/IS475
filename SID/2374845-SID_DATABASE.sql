@@ -111,7 +111,6 @@ WHERE NSHE_ID='1122334459';
 
 
 -- Generated data for STU_UNDERGRAD table
--- Generated data for STU_UNDERGRAD table
 INSERT INTO STU_UNDERGRAD VALUES 
 ('Computer Science', 'ABC Corp', '1234567890'),
 ('Marketing', 'XYZ Inc', '9876543210'),
