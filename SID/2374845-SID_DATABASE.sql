@@ -160,7 +160,7 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE NUMBER) VALUES
 
 
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
-VALUES --Chat
+VALUES --ChatGPT
     (123456, 'John', 'Doe', 'Full-Time', 3.75, 'Undergrad'),
     (789012, 'Jane', 'Smith', 'Part-Time', 3.90, 'Grad'),
     (345678, 'Bob', 'Johnson', 'Full-Time', 3.60, 'Undergrad'),
