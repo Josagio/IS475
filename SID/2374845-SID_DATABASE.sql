@@ -162,7 +162,7 @@ WHERE NSHE_ID='1122334466';
 
 ---UPDATE Data
 UPDATE STUDENT
-SET Internship_EXP = ''
+SET Internship_EXP = 'Corsair'
 WHERE NSHE_ID='2001699515';
 
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
