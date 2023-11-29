@@ -155,6 +155,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Geology', 'Geological Exploration Company', '1122334467'),
 ('Theater', 'Theater Production Company', '5566778885'),
 
+
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Civil Engineering', 'Construction Engineering Ltd.', '2001699515'); -------- error
 
