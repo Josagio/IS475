@@ -120,7 +120,7 @@ INSERT INTO STU_UNDERGRAD VALUES
 ('Psychology', 'Mind Matters', '4455667788'),
 ('Chemistry', 'Lab Innovations', '9988776655'),
 ('Graphic Design', 'Creative Works', '6677889900'),
-('History', 'Time Travels', '1122333344'),  -- Updated NSHE_ID
+('History', 'Time Travels', '1112233344'),  -- Updated NSHE_ID
 ('Biology', 'Eco Solutions', '5566778899'),
 ('Engineering', 'Tech Innovators', '3322114455'),
 ('Communications', 'Media House', '5544332211'),
@@ -135,28 +135,29 @@ INSERT INTO STU_UNDERGRAD VALUES
 ('Environmental Science', 'Green Earth', '1122334457'),
 ('Theater', 'Stage Masters', '5566778895'),
 ('Philosophy', 'Mind Matters', '1122334458'),
-('Health Sciences', 'Wellness Clinic', '5566778894'),
-('Kinesiology', 'Fitness Pro', '1122334459'),
-('Astronomy', 'Starry Skies', '5566778893'),
-('Education', 'Future Scholars', '1122334460'),
-('Criminal Justice', 'Justice League', '5566778892'),
-('Nursing', 'Healthcare Heroes', '1122334461'),
-('Computer Information Systems', 'Tech Innovators', '5566778891'),
-('Anthropology', 'Cultural Explorers', '1122334462'),
-('Communication Studies', 'Media House', '5566778890'),
-('Geology', 'Earth Explorers', '1122334463'),
-('Marketing', 'ABC Corp', '5566778889'),
-('Mathematics', 'Quantum Labs', '1122334464'),
-('Finance', 'Global Ventures', '5566778888'),
-('English', 'Creative Works', '1122334465'),
-('Psychology', 'Mind Matters', '5566778887'),
-('Chemistry', 'Lab Innovations', '1122334466'),
-('Graphic Design', 'Creative Works', '5566778886'),
+('Health Sciences', 'Wellness Clinic', '1122334459'), -- Updated NSHE_ID
+('Kinesiology', 'Fitness Pro', '5566778893'), -- Updated NSHE_ID
+('Astronomy', 'Starry Skies', '1122334460'), -- Updated NSHE_ID
+('Education', 'Future Scholars', '5566778892'), -- Updated NSHE_ID
+('Criminal Justice', 'Justice League', '1122334461'),
+('Nursing', 'Healthcare Heroes', '5566778891'),
+('Computer Information Systems', 'Tech Innovators', '1122334462'),
+('Anthropology', 'Cultural Explorers', '5566778890'),
+('Communication Studies', 'Media House', '1122334463'),
+('Geology', 'Earth Explorers', '5566778889'),
+('Marketing', 'ABC Corp', '1122334464'), -- Updated NSHE_ID
+('Mathematics', 'Quantum Labs', '5566778888'),
+('Finance', 'Global Ventures', '1122334465'), -- Updated NSHE_ID
+('English', 'Creative Works', '5566778887'),
+('Psychology', 'Mind Matters', '1122334466'),
+('Chemistry', 'Lab Innovations', '5566778886'),
 ('History', 'Time Travels', '1122334467'),
-('Biology', 'Eco Solutions', '1122334468'), -- Corrected the NSHE_ID
-('Engineering', 'Tech Innovators', '1122334469'),
-('Communications', 'Media House', '1122334470'); -- Corrected the NSHE_ID
-
+('Biology', 'Eco Solutions', '5566778885'),
+('Engineering', 'Tech Innovators', '1122334468'),
+('Communications', 'Media House', '5566778884'),
+('Physics', 'Quantum Labs', '1122334469'),
+('Economics', 'Eco Solutions', '5566778883'),
+('Political Science', 'Government Insights', '1122334470');
 
 
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
