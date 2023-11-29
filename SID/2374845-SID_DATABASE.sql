@@ -109,6 +109,8 @@ UPDATE STUDENT
 SET GPA = '3.9'
 WHERE NSHE_ID='1122334459';
 
+
+
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 ('10001', 'Sports', 'Team A'),
 ('10002', 'Fosters creativity and artistic expression.', 'Painters'),
