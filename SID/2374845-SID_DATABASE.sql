@@ -109,7 +109,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 ('10051', 'Politics', 'Debate Society');
 
 #####Data deletion
-DELETE FROM 
+DELETE FROM CLUB
 
 Alter Table CLUB
    delete Club_Name varchar (30) NOT NULL;
