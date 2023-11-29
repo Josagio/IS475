@@ -3,7 +3,7 @@
 #CREATE DATABASE IF NOT EXISTS SID_Database ;
 #USE SID_Database;
 
-
+Create Table a
 
 CREATE TABLE STUDENT(
     NSHE_ID char(10) primary key,
