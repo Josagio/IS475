@@ -122,7 +122,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Business Administration', 'Business Consulting Group', '6677889900'),
 ('Computer Engineering', 'Software Innovations', '1122334455'),
 ('Political Science', 'Government Affairs Office', '5566778899'),
-('Civil Engineering', 'Construction Engineering Ltd.', '1122334468'), -------- error
+
 ('Economics', 'Economic Research Institute', '5544332211'),
 ('Chemistry', 'Chemical Lab Innovations', '2233445566'),
 ('English', 'Publishing House ABC', '7788990011'),
