@@ -156,7 +156,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Engineering Physics', 'Physics and Engineering Research', '5566778889'),
 ('Dance', 'Dance Academy', '1122334464'),
 ('Business Analytics', 'Data Analytics Solutions', '5566778888'),
-('Kinesiology', 'Sports and Exercise Science Institute', '1122334465'),
+('Kinesiology', 'Sports and Exercise Institute', '1122334465'),
 ('French', 'French Language Institute', '5566778887'),
 ('Mechanical Design', 'Design and Innovation Studio', '1122334466'),
 ('Management Information Systems', 'MIS Solutions Inc.', '5566778886'),
