@@ -190,7 +190,7 @@ VALUES --ChatGPT
     (141414, 'Chloe', 'Fisher', 'Full-Time', 3.68, 'Undergrad'),
     (151515, 'Elijah', 'Cooper', 'Part-Time', 3.93, 'Grad'),
     -- Add more data...
-    (161616, 'Avery', 'Hill', 'Full-Time', 3.79, 'Undergrad'),
+    (161616, 'Avery', 'Hill', 'Full-Time', 3.79, 'STU_UNDERGRAD'),
     (171717, 'Logan', 'Evans', 'Part-Time', 3.87, 'Grad'),
     (181818, 'Zoe', 'Bennett', 'Full-Time', 3.94, 'STU_UNDERGRAD'),
     (191919, 'Nathan', 'Simmons', 'Part-Time', 3.72, 'Grad'),
