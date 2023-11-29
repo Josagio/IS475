@@ -156,6 +156,7 @@ INSERT INTO STU_UNDERGRAD VALUES
 ('Theater', 'Theater Production Company', '5566778885');
 
 
+
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 ('10001', 'Sports', 'Team A'),
 ('10002', 'Fosters creativity and artistic expression.', 'Painters'),
