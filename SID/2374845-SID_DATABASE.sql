@@ -179,7 +179,6 @@ VALUES --ChatGPT
     (222222, 'Michael', 'Davis', 'Part-Time', 3.95, 'Grad'),
     (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'Undergrad'),
     (444444, 'David', 'Miller', 'Part-Time', 3.88, 'Grad'),
-    -- Add more data...
     (555555, 'Olivia', 'Anderson', 'Full-Time', 3.92, 'Undergrad'),
     (666666, 'William', 'Taylor', 'Part-Time', 3.78, 'Grad'),
     (777777, 'Emma', 'Moore', 'Full-Time', 3.83, 'Undergrad'),
