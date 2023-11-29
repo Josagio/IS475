@@ -109,7 +109,7 @@ UPDATE STUDENT
 SET GPA = '3.9'
 WHERE NSHE_ID='1122334459';
 
--- Generated data for STU_UNDERGRAD table
+
 -- Generated data for STU_UNDERGRAD table
 INSERT INTO STU_UNDERGRAD VALUES 
 ('Computer Science', 'ABC Corp', '1234567890'),
@@ -437,8 +437,3 @@ CREATE TABLE JOINS(
 NSHE_ID Char (10), references to STUDENT(NSHE_ID),
 CLUB_ID Char (10), references to CLUB(CLUB_ID),
 );
-
-
-
-
-KAREN VALDEZ – GROUP WORKSHOP 2
