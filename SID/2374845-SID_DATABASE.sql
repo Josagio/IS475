@@ -177,7 +177,7 @@ VALUES --ChatGPT
     (456789, 'David', 'Wilson', 'Part-Time', 3.88, 'Grad'),
     (111111, 'Emily', 'Jones', 'Full-Time', 3.80, 'Undergrad'),
     (222222, 'Michael', 'Davis', 'Part-Time', 3.95, 'Grad'),
-    (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'Undergrad'),
+    (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'STU_UNDERGRAD'),
     (444444, 'David', 'Miller', 'Part-Time', 3.88, 'Grad'),
     (555555, 'Olivia', 'Anderson', 'Full-Time', 3.92, 'STU_UNDERGRAD'),
     (666666, 'William', 'Taylor', 'Part-Time', 3.78, 'Grad'),
