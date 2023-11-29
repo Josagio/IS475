@@ -102,7 +102,7 @@ INSERT INTO STUDENT VALUES
 ('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G'),
 ('2001699515', 'JP', 'Morgan', 'P', 3.7, 'U');
 
-#####Data deletion
+---Data deletion
 DELETE FROM STUDENT
 WHERE NSHE_ID='3322114455';
 
