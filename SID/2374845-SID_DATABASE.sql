@@ -169,3 +169,12 @@ VALUES --ChatGPT
     (123789, 'Michael', 'Brown', 'Part-Time', 3.95, 'Grad'),
     (890123, 'Sophia', 'Miller', 'Full-Time', 3.70, 'Undergrad'),
     (456789, 'David', 'Wilson', 'Part-Time', 3.88, 'Grad');
+
+    (123456, 'Exploring Machine Learning Algorithms', 'Research Assistant'),
+    (789012, 'Environmental Impact of Renewable Energy', 'Teaching Assistant'),
+    (345678, 'Analysis of Economic Trends', 'Research Assistant'),
+    (901234, 'Applications of Nanotechnology', 'Teaching Assistant'),
+    (567890, 'Data Security in Cloud Computing', 'Research Assistant'),
+    (123789, 'Neuroscience and Cognitive Behavior', 'Teaching Assistant'),
+    (890123, 'Urban Planning and Sustainable Development', 'Research Assistant'),
+    (456789, 'Advancements in Artificial Intelligence', 'Teaching Assistant');
