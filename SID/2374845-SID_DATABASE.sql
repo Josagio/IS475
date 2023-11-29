@@ -132,6 +132,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Economics', 'Economic Research Institute', '5544332211'),
 ('Chemistry', 'Chemical Lab Innovations', '2233445566');
 
+INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('English', 'Publishing House ABC', '7788990011'),
 ('Information Technology', 'IT Solutions Provider', '2001922785'),
 ('History', 'Historical Archives', '3344556677'),
