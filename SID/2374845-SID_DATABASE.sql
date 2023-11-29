@@ -186,7 +186,8 @@ VALUES --ChatGPT
     (567890, 'Data Security in Cloud Computing', 'Research Assistant'),
     (123789, 'Neuroscience and Cognitive Behavior', 'Teaching Assistant'),
     (890123, 'Urban Planning and Sustainable Development', 'Research Assistant'),
-    (456789, 'Advancements in Artificial Intelligence', 'Teaching Assistant');
+    (456789, 'Advancements in Artificial Intelligence', 'Teaching Assistant')
+    
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
