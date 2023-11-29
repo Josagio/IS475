@@ -100,7 +100,7 @@ INSERT INTO STUDENT VALUES
 ('5566778886', 'Jackson', 'Bryant', 'P', 3.6, 'G'),
 ('1122334467', 'Liam', 'Kelly', 'F', 3.1, 'U'),
 ('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G')
-('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G');
+('200', 'Lily', 'Gonzalez', 'P', 3.2, 'G');
 
 #####Data deletion
 DELETE FROM STUDENT
