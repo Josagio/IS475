@@ -40,7 +40,7 @@ CREATE TABLE CLUB(
 );
 FIGURE OUT modify table
 Alter Table CLUB(
-  ##  Club_Name varchar (30) NOT NULL 
+    Club_Name varchar (30) NOT NULL 
 ##);
 
 CREATE TABLE STUDENT_PHONE(
