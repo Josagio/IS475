@@ -200,7 +200,7 @@ VALUES --ChatGPT
     (222222, 'Addison', 'Gibson', 'Full-Time', 3.76, 'STU_UNDERGRAD'),
     (232323, 'Ethan', 'Harrison', 'Part-Time', 3.98, 'Grad'),
     -- Add more data...
-    (242424, 'Mia', 'Owens', 'Full-Time', 3.81, 'Undergrad'),
+    (242424, 'Mia', 'Owens', 'Full-Time', 3.81, 'STU_UNDERGRAD'),
     (252525, 'Lucas', 'Sharp', 'Part-Time', 3.89, 'Grad'),
     (262626, 'Lily', 'Ford', 'Full-Time', 3.77, 'STU_UNDERGRAD'),
     (272727, 'Carter', 'Hudson', 'Part-Time', 3.92, 'Grad');
