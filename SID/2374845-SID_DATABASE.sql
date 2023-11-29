@@ -111,7 +111,7 @@ SET GPA = '3.9'
 WHERE NSHE_ID='1122334459';
 
 
-INSERT INTO STU_UNDERGRAD  VALUES 
+INSERT INTO STU_UNDERGRAD (Club_ID, Purpose, Club_Name) VALUES 
 ('Computer Science', 'Tech Solutions Inc.', '1234567890'),
 ('Marketing', 'Marketing Agency XYZ', '9876543210'),
 ('Electrical Engineering', 'Power Systems Co.', '5678901234'),
