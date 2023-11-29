@@ -3,7 +3,12 @@
 #CREATE DATABASE IF NOT EXISTS SID_Database ;
 #USE SID_Database;
 
-Create Table 
+CCREATE Table ENDORSES(
+Club_ID char(5) not null references CLUB(Club_ID),
+Staff_ID char (8) not null references STAFF(Staff_ID)
+);
+
+
 
 CREATE TABLE STUDENT(
     NSHE_ID char(10) primary key,
