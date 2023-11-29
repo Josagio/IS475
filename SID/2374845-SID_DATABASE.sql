@@ -230,7 +230,8 @@ VALUES --ChatGPT
     (777777, 'Ethical Considerations in Artificial Intelligence', 'Research Assistant'),
     (888888, 'Educational Technology in K-12 Settings', 'Teaching Assistant'),
     (999999, 'Cancer Research and Treatment', 'Research Assistant'),
-    (101010, 'Impacts of Virtual Reality on Education', 'Teaching Assistant')
+    (101010, 'Impacts of Virtual Reality on Education', 'Teaching Assistant'),
+    
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
