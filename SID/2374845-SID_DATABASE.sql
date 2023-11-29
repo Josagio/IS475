@@ -128,7 +128,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Political Science', 'Government Affairs Office', '5566778899');
 
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
-('Civil Engineering', 'Construction Engineering Ltd.', '3322114455'), -------- error
+('Civil Engineering', 'Construction Engineering Ltd.', '5566778885'), -------- error
 ('Economics', 'Economic Research Institute', '5544332211'),
 ('Chemistry', 'Chemical Lab Innovations', '2233445566');
 
@@ -156,7 +156,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Engineering Physics', 'Physics and Engineering Research', '5566778889'),
 ('Dance', 'Dance Academy', '1122334464'),
 ('Business Analytics', 'Data Analytics Solutions', '5566778888'),
-('Kinesiology', 'Sports and ExerciseInstitute', '1122334465'),
+('Kinesiology', 'Sports and Exercise Institute', '1122334465'),
 ('French', 'French Language Institute', '5566778887'),
 ('Mechanical Design', 'Design and Innovation Studio', '1122334466'),
 ('Management Information Systems', 'MIS Solutions Inc.', '5566778886'),
