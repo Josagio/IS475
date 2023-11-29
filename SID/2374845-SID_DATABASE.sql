@@ -185,7 +185,25 @@ VALUES --ChatGPT
     (888888, 'Daniel', 'Jackson', 'Part-Time', 3.91, 'Grad'),
     (999999, 'Ava', 'White', 'Full-Time', 3.88, 'Undergrad'),
     (101010, 'Liam', 'Martinez', 'Part-Time', 3.96, 'Grad');
-    
+    (121212, 'Grace', 'Walker', 'Full-Time', 3.82, 'Undergrad'),
+    (131313, 'Isaac', 'Baker', 'Part-Time', 3.75, 'Grad'),
+    (141414, 'Chloe', 'Fisher', 'Full-Time', 3.68, 'Undergrad'),
+    (151515, 'Elijah', 'Cooper', 'Part-Time', 3.93, 'Grad'),
+    -- Add more data...
+    (161616, 'Avery', 'Hill', 'Full-Time', 3.79, 'Undergrad'),
+    (171717, 'Logan', 'Evans', 'Part-Time', 3.87, 'Grad'),
+    (181818, 'Zoe', 'Bennett', 'Full-Time', 3.94, 'Undergrad'),
+    (191919, 'Nathan', 'Simmons', 'Part-Time', 3.72, 'Grad'),
+    -- Add more data...
+    (202020, 'Hannah', 'Grant', 'Full-Time', 3.85, 'Undergrad'),
+    (212121, 'Jackson', 'Murray', 'Part-Time', 3.90, 'Grad'),
+    (222222, 'Addison', 'Gibson', 'Full-Time', 3.76, 'Undergrad'),
+    (232323, 'Ethan', 'Harrison', 'Part-Time', 3.98, 'Grad'),
+    -- Add more data...
+    (242424, 'Mia', 'Owens', 'Full-Time', 3.81, 'Undergrad'),
+    (252525, 'Lucas', 'Sharp', 'Part-Time', 3.89, 'Grad'),
+    (262626, 'Lily', 'Ford', 'Full-Time', 3.77, 'Undergrad'),
+    (272727, 'Carter', 'Hudson', 'Part-Time', 3.92, 'Grad');
 
 -- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis_Topic, Assistant_Type)
