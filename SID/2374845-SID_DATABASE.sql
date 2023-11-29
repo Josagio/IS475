@@ -170,7 +170,7 @@ VALUES --ChatGPT
     (123456, 'John', 'Doe', 'Full-Time', 3.75, 'STU_UNDERGRAD'),
     (789012, 'Jane', 'Smith', 'Part-Time', 3.90, 'STU_GRAD'),
     (345678, 'Bob', 'Johnson', 'Full-Time', 3.60, 'STU_UNDERGRAD'),
-    (901234, 'Alice', 'Williams', 'Part-Time', 3.85, 'Grad'),
+    (901234, 'Alice', 'Williams', 'Part-Time', 3.85, 'STU_GRAD'),
     (567890, 'Emily', 'Davis', 'Full-Time', 3.80, 'STU_UNDERGRAD'),
     (123789, 'Michael', 'Brown', 'Part-Time', 3.95, 'Grad'),
     (890123, 'Sophia', 'Miller', 'Full-Time', 3.70, 'STU_UNDERGRAD'),
