@@ -110,7 +110,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 
 #####Data deletion
 Alter Table CLUB
-   modify Club_Name varchar (30) NOT NULL;
+   delete Club_Name varchar (30) NOT NULL;
 
 INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE NUMBER) VALUES
 ('1234567890', '555-123-4567'),
