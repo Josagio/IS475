@@ -377,3 +377,8 @@ VALUES -- ChatGPT
     (138, 238),
     (139, 239),
     (140, 240);
+
+    Create table MAJOR(
+NSHE_ID char (10) references Student(NSHE_ID),
+Major_Name char (10) not null,
+);
