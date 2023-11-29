@@ -106,7 +106,7 @@ WHERE NSHE_ID='3322114455'
 
 ###UPDATE 10013
 UPDATE STUDENT
-SET Purpose = 'Develop and Talk about tech innovation'
+SET g = 'Develop and Talk about tech innovation'
 WHERE Club_ID = '10013'
 
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
