@@ -202,7 +202,7 @@ VALUES --ChatGPT
     -- Add more data...
     (242424, 'Mia', 'Owens', 'Full-Time', 3.81, 'Undergrad'),
     (252525, 'Lucas', 'Sharp', 'Part-Time', 3.89, 'Grad'),
-    (262626, 'Lily', 'Ford', 'Full-Time', 3.77, 'Undergrad'),
+    (262626, 'Lily', 'Ford', 'Full-Time', 3.77, 'STU_UNDERGRAD'),
     (272727, 'Carter', 'Hudson', 'Part-Time', 3.92, 'Grad');
 
 -- Insert sample data into STU_GRAD
