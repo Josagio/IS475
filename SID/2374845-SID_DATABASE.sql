@@ -9,7 +9,6 @@ Staff_ID char (8) not null references STAFF(Staff_ID)
 );
 
 
-
 CREATE TABLE STUDENT(
     NSHE_ID char(10) primary key,
     First_Name varchar(15) not null,
