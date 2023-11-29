@@ -494,7 +494,7 @@ INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (353535, 'Earth and Environmental Science'),
 (363636, 'Educational Psychology'),
 (373737, 'Elementary Education')
-;
+();
 
 
 
