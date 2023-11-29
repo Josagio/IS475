@@ -197,7 +197,7 @@ VALUES --ChatGPT
     -- Add more data...
     (202020, 'Hannah', 'Grant', 'Full-Time', 3.85, 'STU_UNDERGRAD'),
     (212121, 'Jackson', 'Murray', 'Part-Time', 3.90, 'Grad'),
-    (222222, 'Addison', 'Gibson', 'Full-Time', 3.76, 'Undergrad'),
+    (222222, 'Addison', 'Gibson', 'Full-Time', 3.76, 'STU_UNDERGRAD'),
     (232323, 'Ethan', 'Harrison', 'Part-Time', 3.98, 'Grad'),
     -- Add more data...
     (242424, 'Mia', 'Owens', 'Full-Time', 3.81, 'Undergrad'),
