@@ -26,7 +26,7 @@ CREATE TABLE STUDENT(
 );
 
 Alter Table STUDENT
-    modify NSHE_ID char
+    modify NSHE_ID char(10) primary key unique
 
 
 CREATE TABLE STU_UNDERGRAD(
