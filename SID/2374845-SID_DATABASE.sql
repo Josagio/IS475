@@ -187,7 +187,16 @@ VALUES --ChatGPT
     (123789, 'Neuroscience and Cognitive Behavior', 'Teaching Assistant'),
     (890123, 'Urban Planning and Sustainable Development', 'Research Assistant'),
     (456789, 'Advancements in Artificial Intelligence', 'Teaching Assistant')
-    
+        (111111, 'Robotics in Healthcare', 'Research Assistant'),
+    (222222, 'Impact of Social Media on Society', 'Teaching Assistant'),
+    (333333, 'Biological Conservation Strategies', 'Research Assistant'),
+    (444444, 'Blockchain Applications in Finance', 'Teaching Assistant'),
+    (555555, 'Psychological Aspects of Human-Computer Interaction', 'Research Assistant'),
+    (666666, 'Global Climate Change Mitigation', 'Teaching Assistant'),
+    (777777, 'Ethical Considerations in Artificial Intelligence', 'Research Assistant'),
+    (888888, 'Educational Technology in K-12 Settings', 'Teaching Assistant'),
+    (999999, 'Cancer Research and Treatment', 'Research Assistant'),
+    (101010, 'Impacts of Virtual Reality on Education', 'Teaching Assistant');
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
