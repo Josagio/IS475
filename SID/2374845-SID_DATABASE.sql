@@ -231,7 +231,40 @@ VALUES --ChatGPT
     (888888, 'Educational Technology in K-12 Settings', 'Teaching Assistant'),
     (999999, 'Cancer Research and Treatment', 'Research Assistant'),
     (101010, 'Impacts of Virtual Reality on Education', 'Teaching Assistant'),
-    
+    (141414, 'Machine Learning in Healthcare', 'Research Assistant'),
+    (151515, 'Sustainable Energy Solutions', 'Teaching Assistant'),
+    (161616, 'Social Media Influence on Consumer Behavior', 'Research Assistant'),
+    (171717, 'Advancements in Nanomedicine', 'Teaching Assistant'),
+    -- Add more data...
+    (181818, 'Urban Transportation Planning', 'Research Assistant'),
+    (191919, 'Psychological Impact of Virtual Reality', 'Teaching Assistant'),
+    (202020, 'Climate Change Policy Analysis', 'Research Assistant'),
+    (212121, 'Artificial Intelligence in Education', 'Teaching Assistant'),
+    -- Add more data...
+    (222222, 'Robotics for Disaster Response', 'Research Assistant'),
+    (232323, 'Financial Markets and Algorithmic Trading', 'Teaching Assistant'),
+    (242424, 'Environmental Psychology', 'Research Assistant'),
+    (252525, 'Blockchain Applications in Supply Chain', 'Teaching Assistant'),
+    -- Add more data...
+    (262626, 'Health Informatics and Patient Care', 'Research Assistant'),
+    (272727, 'Innovations in Educational Technology', 'Teaching Assistant'),
+    (282828, 'Renewable Energy Policy Analysis', 'Research Assistant'),
+    (292929, 'Human-Robot Interaction in Manufacturing', 'Teaching Assistant'),
+    -- Add more data...
+    (303030, 'Cancer Immunotherapy Research', 'Research Assistant'),
+    (313131, 'Ethics in Artificial Intelligence Development', 'Teaching Assistant'),
+    (323232, 'Smart Cities and Urban Sustainability', 'Research Assistant'),
+    (333333, 'Social Impact of Mobile Health Apps', 'Teaching Assistant'),
+    -- Add more data...
+    (343434, 'Neuroscience and Decision Making', 'Research Assistant'),
+    (353535, 'Cryptocurrencies and Decentralized Finance', 'Teaching Assistant'),
+    (363636, 'Economic Analysis of Sustainable Agriculture', 'Research Assistant'),
+    (373737, 'Human-Computer Interaction for Accessibility', 'Teaching Assistant'),
+    -- Add more data...
+    (383838, 'Bioinformatics and Genomic Data Analysis', 'Research Assistant'),
+    (393939, 'Digital Marketing Strategies', 'Teaching Assistant'),
+    (404040, 'Climate Change and Global Health', 'Research Assistant'),
+    (414141, 'Educational Gamification', 'Teaching Assistant');
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
