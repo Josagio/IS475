@@ -496,6 +496,15 @@ INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (363636, 'Educational Psychology'),
 (373737, 'Elementary Education')
 (383838, 'Quantitative Finance')
+(393939, 'French Studies')
+(414141, 'English')
+(424242,' Gaming Law')
+(434343, 'Sexuality Studies'),
+(454545, 'Geology'),
+(464646, 'Geoscience')
+(474747, 'German Studies')
+(484848, 'Gerontology') 
+(494949, 'Science');
 ;
 
 
