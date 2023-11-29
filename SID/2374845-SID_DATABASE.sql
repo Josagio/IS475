@@ -117,9 +117,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Electrical Engineering', 'Power Systems Co.', '5678901234'),
 ('Psychology', 'Mental Health Clinic', '0123456789'),
 ('Biology', 'BioTech Research Lab', '1112233344'),
-('Finance', 'Financial Services Ltd.', '4455667788');
-
-INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
+('Finance', 'Financial Services Ltd.', '4455667788'); 
 ('Mechanical Engineering', 'Mechanical Design Corp.', '9988776655'),
 ('Business Administration', 'Business Consulting Group', '6677889900'),
 ('Computer Engineering', 'Software Innovations', '1122334455'),
