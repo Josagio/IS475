@@ -133,7 +133,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Mathematics', 'Mathematics Research Center', '1022334455'),
 ('Communication Studies', 'Media Productions Inc.', '5566768899'),
 ('Industrial Engineering', 'Industrial Solutions Co.', '1122334456'),
-('Health Sciences', 'Healthcare Services Group', '5566778896'),\
+('Health Sciences', 'Healthcare Services Group', '5566778896')
 
 
 
