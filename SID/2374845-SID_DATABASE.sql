@@ -40,7 +40,7 @@ CREATE TABLE CLUB(
 );
 
 
-Alter Table CLUB(
+Alter Table CLUB
    modify Club_Name varchar (30) NOT NULL 
 );
 
