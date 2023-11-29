@@ -105,7 +105,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 ('10047', 'Technology', 'Robotics Club'),
 ('10048', 'Sports', 'Golf Gurus'),
 ('10049', 'Science', 'Astronomy Club'),
-('10050', 'Art', 'Mural Masters');
+('10050', 'Art', 'Mural Masters'),
 ('10051', 'Politics', 'Debate Society');
 
 #####Data deletion
@@ -173,13 +173,13 @@ VALUES --ChatGPT
     (901234, 'Alice', 'Williams', 'Part-Time', 3.85, 'Grad'),
     (567890, 'Emily', 'Davis', 'Full-Time', 3.80, 'Undergrad'),
     (123789, 'Michael', 'Brown', 'Part-Time', 3.95, 'Grad'),
-    (890123, 'Sophia', 'Miller', 'Full-Time', 3.70, 'Undergrad'),
+    (890123, 'Sophia', 'Miller', 'Full-Time', 3.70, 'STU_UNDERGRAD'),
     (456789, 'David', 'Wilson', 'Part-Time', 3.88, 'Grad'),
-    (111111, 'Emily', 'Jones', 'Full-Time', 3.80, 'Undergrad'),
+    (111111, 'Emily', 'Jones', 'Full-Time', 3.80, 'STU_UNDERGRAD'),
     (222222, 'Michael', 'Davis', 'Part-Time', 3.95, 'Grad'),
-    (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'Undergrad'),
+    (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'STU_UNDERGRAD'),
     (444444, 'David', 'Miller', 'Part-Time', 3.88, 'Grad'),
-    (555555, 'Olivia', 'Anderson', 'Full-Time', 3.92, 'Undergrad'),
+    (555555, 'Olivia', 'Anderson', 'Full-Time', 3.92, 'STU_UNDERGRAD'),
     (666666, 'William', 'Taylor', 'Part-Time', 3.78, 'Grad'),
     (777777, 'Emma', 'Moore', 'Full-Time', 3.83, 'STU_UNDERGRAD'),
     (888888, 'Daniel', 'Jackson', 'Part-Time', 3.91, 'Grad'),
