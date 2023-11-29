@@ -112,6 +112,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 DELETE FROM CLUB
 WHERE Club_ID='10051'
 
+
 UPDATE CLUB
 SET Purpose = 'Develop and Talk about tech innovation'
 WHERE Club_ID = '10013'
