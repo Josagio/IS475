@@ -25,8 +25,6 @@ CREATE TABLE STUDENT(
     Student_Type varchar(1)
 );
 
-Alter Table STUDENT
-    modify NSHE_ID char(10) primary key unique;
 
 
 CREATE TABLE STU_UNDERGRAD(
