@@ -101,7 +101,7 @@ INSERT INTO STUDENT VALUES
 ('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G');
 
 #####Data deletion
-DELETE FROM CLUB
+DELETE FROM S
 WHERE Club_ID='10051'
 
 ###UPDATE 10013
