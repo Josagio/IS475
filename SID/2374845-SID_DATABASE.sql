@@ -127,6 +127,8 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Computer Engineering', 'Software Innovations', '1122334455'),
 ('Political Science', 'Government Affairs Office', '5566778899');
 
+
+
 ('English', 'Publishing House ABC', '7788990011'),
 ('Information Technology', 'IT Solutions Provider', '2001922785'),
 ('History', 'Historical Archives', '3344556677'),
