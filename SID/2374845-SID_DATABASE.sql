@@ -128,9 +128,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Political Science', 'Government Affairs Office', '5566778899');
 
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
-('Civil Engineering', 'Construction Engineering Ltd.', '3322114455'),
-('Economics', 'Economic Research Institute', '5544332211'),
-('Chemistry', 'Chemical Lab Innovations', '2233445566');
+('Civil Engineering', 'Construction Engineering Ltd.', '3322114455')
 
 ('English', 'Publishing House ABC', '7788990011'),
 ('Information Technology', 'IT Solutions Provider', '2001922785'),
