@@ -110,7 +110,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 
 #####Data deletion
 DELETE FROM CLUB
-WHERE Club_
+WHERE Club_I
 
 Alter Table CLUB
    delete Club_Name varchar (30) NOT NULL;
