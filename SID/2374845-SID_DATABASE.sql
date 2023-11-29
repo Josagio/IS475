@@ -437,3 +437,8 @@ CREATE TABLE JOINS(
 NSHE_ID Char (10), references to STUDENT(NSHE_ID),
 CLUB_ID Char (10), references to CLUB(CLUB_ID),
 );
+
+
+
+
+KAREN VALDEZ – GROUP WORKSHOP 2
