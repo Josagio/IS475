@@ -156,7 +156,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Theater', 'Theater Production Company', '5566778885'),
 ('Civil Engineering', 'Construction Engineering Ltd.', '2001699515');
 
-#####Data deletion
+---Data deletion
 DELETE FROM STUDENT
 WHERE NSHE_ID='3322114455';
 
