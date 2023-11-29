@@ -172,7 +172,7 @@ VALUES --ChatGPT
 
 -- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis_Topic, Assistant_Type)
-VALUES
+VALUES --ChatGPT
     (123456, 'Exploring Machine Learning Algorithms', 'Research Assistant'),
     (789012, 'Environmental Impact of Renewable Energy', 'Teaching Assistant'),
     (345678, 'Analysis of Economic Trends', 'Research Assistant'),
