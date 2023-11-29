@@ -110,7 +110,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 
 #####Data deletion
 DELETE FROM CLUB
-WHERE 
+WHERE Club
 
 Alter Table CLUB
    delete Club_Name varchar (30) NOT NULL;
@@ -204,7 +204,7 @@ VALUES --ChatGPT
     (232323, 'Ethan', 'Harrison', 'Part-Time', 3.98, 'STU_GRAD'),
     -- Add more data...
     (242424, 'Mia', 'Owens', 'Full-Time', 3.81, 'STU_UNDERGRAD'),
-    (252525, 'Lucas', 'Sharp', 'Part-Time', 3.89, 'Grad'),
+    (252525, 'Lucas', 'Sharp', 'Part-Time', 3.89, 'STU_GRAD'),
     (262626, 'Lily', 'Ford', 'Full-Time', 3.77, 'STU_UNDERGRAD'),
     (272727, 'Carter', 'Hudson', 'Part-Time', 3.92, 'Grad');
 
