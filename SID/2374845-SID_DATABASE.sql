@@ -109,6 +109,8 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
 ('10051', 'Politics', 'Debate Society');
 
 #####Data deletion
+DELETE 
+
 Alter Table CLUB
    delete Club_Name varchar (30) NOT NULL;
 
@@ -167,24 +169,24 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE NUMBER) VALUES
 
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
 VALUES --ChatGPT
-    (123456, 'John', 'Doe', 'Full-Time', 3.75, 'STU_UNDERGRAD'),
-    (789012, 'Jane', 'Smith', 'Part-Time', 3.90, 'STU_GRAD'),
-    (345678, 'Bob', 'Johnson', 'Full-Time', 3.60, 'STU_UNDERGRAD'),
-    (901234, 'Alice', 'Williams', 'Part-Time', 3.85, 'STU_GRAD'),
-    (567890, 'Emily', 'Davis', 'Full-Time', 3.80, 'STU_UNDERGRAD'),
-    (123789, 'Michael', 'Brown', 'Part-Time', 3.95, 'STU_GRAD'),
-    (890123, 'Sophia', 'Miller', 'Full-Time', 3.70, 'STU_UNDERGRAD'),
-    (456789, 'David', 'Wilson', 'Part-Time', 3.88, 'STU_GRAD'),
-    (111111, 'Emily', 'Jones', 'Full-Time', 3.80, 'STU_UNDERGRAD'),
-    (222222, 'Michael', 'Davis', 'Part-Time', 3.95, 'STU_GRAD'),
-    (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'STU_UNDERGRAD'),
-    (444444, 'David', 'Miller', 'Part-Time', 3.88, 'STU_GRAD'),
-    (555555, 'Olivia', 'Anderson', 'Full-Time', 3.92, 'STU_UNDERGRAD'),
-    (666666, 'William', 'Taylor', 'Part-Time', 3.78, 'STU_GRAD'),
+    (123456, 'John', 'Doe', 'Full-Time', 3.75, 'Undergrad'),
+    (789012, 'Jane', 'Smith', 'Part-Time', 3.90, 'Grad'),
+    (345678, 'Bob', 'Johnson', 'Full-Time', 3.60, 'Undergrad'),
+    (901234, 'Alice', 'Williams', 'Part-Time', 3.85, 'Grad'),
+    (567890, 'Emily', 'Davis', 'Full-Time', 3.80, 'Undergrad'),
+    (123789, 'Michael', 'Brown', 'Part-Time', 3.95, 'Grad'),
+    (890123, 'Sophia', 'Miller', 'Full-Time', 3.70, 'Undergrad'),
+    (456789, 'David', 'Wilson', 'Part-Time', 3.88, 'Grad'),
+    (111111, 'Emily', 'Jones', 'Full-Time', 3.80, 'Undergrad'),
+    (222222, 'Michael', 'Davis', 'Part-Time', 3.95, 'Grad'),
+    (333333, 'Sophia', 'Brown', 'Full-Time', 3.70, 'Undergrad'),
+    (444444, 'David', 'Miller', 'Part-Time', 3.88, 'Grad'),
+    (555555, 'Olivia', 'Anderson', 'Full-Time', 3.92, 'Undergrad'),
+    (666666, 'William', 'Taylor', 'Part-Time', 3.78, 'Grad'),
     (777777, 'Emma', 'Moore', 'Full-Time', 3.83, 'STU_UNDERGRAD'),
-    (888888, 'Daniel', 'Jackson', 'Part-Time', 3.91, 'STU_GRAD'),
+    (888888, 'Daniel', 'Jackson', 'Part-Time', 3.91, 'Grad'),
     (999999, 'Ava', 'White', 'Full-Time', 3.88, 'STU_UNDERGRAD'),
-    (101010, 'Liam', 'Martinez', 'Part-Time', 3.96, 'STU_GRAD');
+    (101010, 'Liam', 'Martinez', 'Part-Time', 3.96, 'Grad');
     (121212, 'Grace', 'Walker', 'Full-Time', 3.82, 'STU_UNDERGRAD'),
     (131313, 'Isaac', 'Baker', 'Part-Time', 3.75, 'Grad'),
     (141414, 'Chloe', 'Fisher', 'Full-Time', 3.68, 'STU_UNDERGRAD'),
