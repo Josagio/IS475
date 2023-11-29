@@ -855,7 +855,7 @@ where NSHE_ID = 1234567890
 
 DELETE from STUDENT_PHONE
 Where NSHE_ID = 1234567890
-
+;
 
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
 VALUES --ChatGPT
