@@ -35,7 +35,7 @@ CREATE TABLE STU_UNDERGRAD(
 CREATE TABLE CLUB(
 	Club_ID char(5) NOT NULL Primary Key,
 	Purpose varchar (500),
-	Club_Name varchar (20) NOT NULL,
+	Club_Name varchar (30) NOT NULL,
 	Budget decimal (7.2)
 );
 
