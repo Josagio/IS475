@@ -20,4 +20,4 @@ SELECT * FROM CLUB ORDER BY Budget DESC LIMIT 1;
 SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
 
-#Inner Join with
+#Inner Join with Endores
