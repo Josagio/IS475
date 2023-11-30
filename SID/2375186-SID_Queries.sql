@@ -21,5 +21,5 @@ SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
 
 #Inner Join with Endorses
-SELECT CLUB.*, Endores.Column FROM CLUB
+SELECT CLUB.*, Joins.Column FROM CLUB
 INNER JOIN Joins ON CLUB.Club_ID = Endores.Club_ID;
