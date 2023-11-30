@@ -219,7 +219,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10050', 'Art', 'Mural Masters'),
 ('10051', 'Politics', 'Debate Society');
 
-
+UPDATE CLUB
 
 #####Data deletion
 DELETE FROM CLUB
