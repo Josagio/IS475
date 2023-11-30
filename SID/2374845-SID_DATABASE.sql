@@ -286,15 +286,7 @@ UPDATE CLUB SET Budget = 10000 WHERE Club_ID = '10047';
 UPDATE CLUB SET Budget = 5500 WHERE Club_ID = '10048';
 UPDATE CLUB SET Budget = 820 WHERE Club_ID = '10049';
 UPDATE CLUB SET Budget = 7200 WHERE Club_ID = '10050';
--- Update the Budget column to NULL for duplicate values
-UPDATE CLUB
-SET Budget = NULL
-WHERE Budget IN (
-    SELECT Budget
-    FROM CLUB
-    GROUP BY Budget
-    HAVING COUNT(Budget) > 1
-);
+
 
 -- Replace the NULL values with new unique values
 UPDATE CLUB
