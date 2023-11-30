@@ -166,7 +166,7 @@ UPDATE STU_UNDERGRAD
 SET Internship_EXP = 'Corsair'
 WHERE NSHE_ID='2001699515';
 
-INSERT INTO CLUB (Club_ID, Purpose, Club_Name) VALUES
+INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10001', 'Sports', 'Team A'),
 ('10002', 'Fosters creativity and artistic expression.', 'Painters'),
 ('10003', 'Music', 'Melody Makers'),
