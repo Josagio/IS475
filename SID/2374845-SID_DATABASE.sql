@@ -867,15 +867,7 @@ WHERE Club_ID = '10013'
 
 
 
-UPDATE STUDENT_PHONE 
-set NSHE_ID = 5006317467
-where NSHE_ID = 1234567890
-;
-
-DELETE from STUDENT_PHONE
-Where NSHE_ID = 1234567890
-;
-
+\
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
 VALUES --ChatGPT
     (123456, 'John', 'Doe', 'Full-Time', 3.75, 'STU_UNDERGRAD'),
