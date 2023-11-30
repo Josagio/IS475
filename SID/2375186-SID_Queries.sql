@@ -25,4 +25,4 @@ LIMIT 1;
 SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
 
-#
+#Select
