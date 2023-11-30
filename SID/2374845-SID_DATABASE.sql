@@ -57,7 +57,7 @@ CREATE TABLE STUDENT_PHONE(
 
 );
 #Data Update for STUDENT_PHONE 
-A
+Alter Table 
 
 
 ---DATA ENTRY FOR TABLES
