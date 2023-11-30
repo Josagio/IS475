@@ -166,61 +166,6 @@ UPDATE STU_UNDERGRAD
 SET Internship_EXP = 'Corsair'
 WHERE NSHE_ID='2001699515';
 
-INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
-('10001', 'Sports', 'Team A', '200'),
-('10002', 'Fosters creativity and artistic expression.', 'Painters','800'),
-('10003', 'Music', 'Melody Makers','1,500'),
-('10004', 'Science', 'Tech Explorers','300'),
-('10005', 'Community Service', 'Helping Hands','400'),
-('10006', 'Sports', 'Fitness Fanatics','1,000''1,000',
-('10007', 'Technology', 'Code Wizards''5,000'),
-('10008', 'Literature', 'Bookworms','200'),
-('10009', 'Science', 'Lab Rats'),
-('10010', 'Art', 'Sculpture Society'),
-('10011', 'Music', 'Harmony Club'),
-('10012', 'Community Service', 'Kindness Crew'),
-('10013', 'Technology', 'Innovators'),
-('10014', 'Sports', 'Runners Club'),
-('10015', 'Literature', 'Poetry Enthusiasts'),
-('10016', 'Science', 'Space Explorers'),
-('10017', 'Art', 'Drawing Club'),
-('10018', 'Music', 'Rhythm Nation'),
-('10019', 'Community Service', 'Green Team'),
-('10020', 'Technology', 'Code Breakers'),
-('10021', 'Sports', 'Basketball Buddies'),
-('10022', 'Science', 'Nature Lovers'),
-('10023', 'Art', 'Crafty Creators'),
-('10024', 'Music', 'Instrumentalists'),
-('10025', 'Literature', 'Creative Writers'),
-('10026', 'Community Service', 'Caring Souls'),
-('10027', 'Technology', 'Digital Explorers'),
-('10028', 'Sports', 'Soccer Stars'),
-('10029', 'Science', 'Eco Warriors'),
-('10030', 'Art', 'Photography Club'),
-('10031', 'Music', 'Choir'),
-('10032', 'Community Service', 'Food Drive Team'),
-('10033', 'Technology', 'Tech Titans'),
-('10034', 'Sports', 'Volleyball Vipers'),
-('10035', 'Science', 'Chemistry Club'),
-('10036', 'Art', 'Cinema Club'),
-('10037', 'Music', 'Guitar Guild'),
-('10038', 'Literature', 'Drama Club'),
-('10039', 'Community Service', 'Community Builders'),
-('10040', 'Technology', 'App Developers'),
-('10041', 'Sports', 'Track and Field'),
-('10042', 'Science', 'Biology Buffs'),
-('10043', 'Art', 'Dance Ensemble'),
-('10044', 'Music', 'Orchestra'),
-('10045', 'Literature', 'Debate Club'),
-('10046', 'Community Service', 'Volunteer Squad'),
-('10047', 'Technology', 'Robotics Club'),
-('10048', 'Sports', 'Golf Gurus'),
-('10049', 'Science', 'Astronomy Club'),
-('10050', 'Art', 'Mural Masters'),
-('10051', 'Politics', 'Debate Society');
-
-UPDATE CLUB
-SET Budget = ROUND(RAND()) * (9900) + 100);
 
 #####Data deletion
 DELETE FROM CLUB
