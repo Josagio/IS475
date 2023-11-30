@@ -220,7 +220,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10051', 'Politics', 'Debate Society');
 
 UPDATE CLUB
-
+SET B
 
 #####Data deletion
 DELETE FROM CLUB
