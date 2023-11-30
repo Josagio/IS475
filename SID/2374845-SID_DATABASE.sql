@@ -233,7 +233,6 @@ WHERE Club_ID = '10013'
 
 #UPDATE FOR VALUES IN BUDGET COLUMN FOR CLUB_ID 
 
--- Update the Budget column for each Club_ID
 UPDATE CLUB SET Budget = 562 WHERE Club_ID = '10001';
 UPDATE CLUB SET Budget = 2889 WHERE Club_ID = '10002';
 UPDATE CLUB SET Budget = 695 WHERE Club_ID = '10003';
