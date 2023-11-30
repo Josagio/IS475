@@ -24,8 +24,3 @@ LIMIT 1;
 #The clubs with the highest budget for each purpose
 SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
-
-#
-SELECT CLUB.*, ENDORSES.Staff_ID
-FROM CLUB
-INNER JOIN ENDORSES ON CLUB.Club_ID = ENDORSES.Club_ID;
