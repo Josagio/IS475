@@ -40,8 +40,6 @@ CREATE TABLE CLUB(
 );
 
 
-
-
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
     Phone_Number varchar(10) primary key
