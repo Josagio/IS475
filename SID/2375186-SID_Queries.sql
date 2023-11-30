@@ -31,5 +31,5 @@ SELECT * FROM STUDENT_PHONE;
 #Select 
 SELECT NSHE_ID, Phone_Number FROM STUDENT_PHONE;
 
-#Select 
+#Select phone number with 555
 SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
