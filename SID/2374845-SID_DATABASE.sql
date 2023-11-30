@@ -47,7 +47,7 @@ Alter Table CLUB
 Alter Table CLUB 
     modify Purpose varchar (500);
 
----It is case sensitive. It will not find it if not spelle
+---It is case sensitive. It will not find it if not sp
 Alter Table CLUB 
     ADD COLUMN Budget decimal(7.2);
 
