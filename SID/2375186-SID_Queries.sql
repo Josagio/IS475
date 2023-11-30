@@ -2,7 +2,6 @@
 SELECT * FROM CLUB
 
 #Retrieve club names for clubs with a budget greater than $5,000:
-
 SELECT Club_Name FROM CLUB WHERE Budget > 5000;
 
 #The number of clubs
