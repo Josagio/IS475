@@ -48,6 +48,7 @@ Alter Table CLUB
     modify Purpose varchar (500);
 Alter Table Club 
 
+
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
     Phone_Number varchar(10) primary key
