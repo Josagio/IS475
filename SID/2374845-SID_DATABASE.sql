@@ -37,7 +37,7 @@ CREATE TABLE CLUB(
     Club_ID char(5) NOT NULL Primary Key,
     Purpose varchar (500),
     Club_Name varchar (20) NOT NULL
-    Budget decimal ()
+    Budget decimal (2)
 );
 
 ###DATA Update for club
