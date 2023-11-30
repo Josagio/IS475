@@ -11,3 +11,4 @@ SELECT COUNT(*) AS ClubCount FROM CLUB;
 UPDATE CLUB SET Budget = 7000 WHERE Club_ID = '10003';
 
 #Average budget for all the clubs
+SELECT AVG(Budget) AS AvgBudget FROM CLUB;
