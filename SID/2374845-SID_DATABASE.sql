@@ -169,7 +169,7 @@ WHERE NSHE_ID='2001699515';
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10001', 'Sports', 'Team A', '200'),
 ('10002', 'Fosters creativity and artistic expression.', 'Painters','800'),
-('10003', 'Music', 'Melody Makers',''),
+('10003', 'Music', 'Melody Makers','1,'),
 ('10004', 'Science', 'Tech Explorers'),
 ('10005', 'Community Service', 'Helping Hands'),
 ('10006', 'Sports', 'Fitness Fanatics'),
