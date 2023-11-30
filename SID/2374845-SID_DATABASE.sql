@@ -802,9 +802,6 @@ INSERT INTO STU_UNDERGRAD VALUES
 ('Communications', 'Media House', '1122334470'); -- Corrected the NSHE_ID
 
 
-
-
-
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
 VALUES --ChatGPT
     (123456, 'John', 'Doe', 'Full-Time', 3.75, 'STU_UNDERGRAD'),
