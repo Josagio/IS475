@@ -9,3 +9,5 @@ SELECT COUNT(*) AS ClubCount FROM CLUB;
 
 #Update budget for Melody Makers 
 UPDATE CLUB SET Budget = 7000 WHERE Club_ID = '10003';
+
+#
