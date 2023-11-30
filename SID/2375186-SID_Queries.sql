@@ -1,4 +1,6 @@
-#
+#Retrieve all columns for all clubs:
+
+
 SELECT * FROM CLUB
 
 SELECT Club_Name FROM CLUB WHERE Budget > 5000;
