@@ -282,7 +282,7 @@ UPDATE CLUB SET Budget = 45000 WHERE Club_ID = '10043';
 UPDATE CLUB SET Budget = 750 WHERE Club_ID = '10044';
 UPDATE CLUB SET Budget = 5500 WHERE Club_ID = '10045';
 UPDATE CLUB SET Budget = 50000 WHERE Club_ID = '10046';
-
+UPDATE CLUB SET Budget = 50000 WHERE Club_ID = '10046';
 -- Update the Budget column to NULL for duplicate values
 UPDATE CLUB
 SET Budget = NULL
