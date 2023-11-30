@@ -33,12 +33,6 @@ CREATE TABLE STU_UNDERGRAD(
 );
 
 
-CREATE TABLE CLUB( 
-    Club_ID char(5) NOT NULL Primary Key,
-    Purpose varchar (500),
-    Club_Name varchar (20) NOT NULL,
-    Budget decimal (7.0)
-);
 
 ###DATA Update for club
 Alter Table CLUB
