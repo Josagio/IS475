@@ -172,7 +172,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10003', 'Music', 'Melody Makers','1,500'),
 ('10004', 'Science', 'Tech Explorers','300'),
 ('10005', 'Community Service', 'Helping Hands','$400'),
-('10006', 'Sports', 'Fitness Fanatics'),
+('10006', 'Sports', 'Fitness Fanatics'),,
 ('10007', 'Technology', 'Code Wizards'),
 ('10008', 'Literature', 'Bookworms'),
 ('10009', 'Science', 'Lab Rats'),
