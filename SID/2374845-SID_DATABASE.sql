@@ -47,6 +47,7 @@ Alter Table CLUB
 Alter Table CLUB 
     modify Purpose varchar (500);
 
+
 Alter Table CLUB 
     ADD COLUMN Budget decimal(7.2);
 
