@@ -7,4 +7,5 @@ SELECT Club_Name FROM CLUB WHERE Budget > 5000;
 #The number of clubs
 SELECT COUNT(*) AS ClubCount FROM CLUB;
 
+
 UPDATE CLUB SET Budget = 7000 WHERE Club_ID = '10003';
