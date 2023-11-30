@@ -27,3 +27,5 @@ WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpo
 
 #Select All
 SELECT * FROM STUDENT_PHONE;
+
+Select Unique Phone Numbers:
