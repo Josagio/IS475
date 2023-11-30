@@ -32,6 +32,12 @@ CREATE TABLE STU_UNDERGRAD(
     NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
 );
 
+CREATE TABLE CLUB(
+	Club_ID char(5) NOT NULL Primary Key,
+	Purpose varchar (500),
+	Club_Name varchar (20) NOT NULL,
+	Budget decimal (7.2)
+);
 
 
 ###DATA Update for club
