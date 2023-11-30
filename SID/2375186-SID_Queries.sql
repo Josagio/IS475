@@ -17,6 +17,9 @@ SELECT AVG(Budget) AS AvgBudget FROM CLUB;
 SELECT * FROM CLUB ORDER BY Budget DESC LIMIT 1;
 
 #Club with the lowest budget 
+SELECT * FROM CLUB
+ORDER BY Budget ASC
+LIMIT 1;
 
 #The clubs with the highest budget for each purpose
 SELECT * FROM CLUB
