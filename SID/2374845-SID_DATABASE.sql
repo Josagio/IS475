@@ -167,6 +167,7 @@ SET Internship_EXP = 'Corsair'
 WHERE NSHE_ID='2001699515';
 
 
+
 #####Data deletion
 DELETE FROM CLUB
 WHERE Club_ID='10051'
