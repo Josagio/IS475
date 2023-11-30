@@ -17,3 +17,5 @@ SELECT AVG(Budget) AS AvgBudget FROM CLUB;
 SELECT * FROM CLUB ORDER BY Budget DESC LIMIT 1;
 
 #The clubs with the highest budget for each purpose
+SELECT * FROM CLUB
+WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
