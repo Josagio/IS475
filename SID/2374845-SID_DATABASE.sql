@@ -44,7 +44,7 @@ CREATE TABLE CLUB(
 Alter Table CLUB
    modify Club_Name varchar (30) NOT NULL;
 
-
+Alter 
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
