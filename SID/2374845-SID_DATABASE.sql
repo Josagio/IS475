@@ -45,7 +45,7 @@ Alter Table CLUB
    modify Club_Name varchar (30) NOT NULL;
 
 Alter Table CLUB 
-    modify Purpose varchar (500)
+    modify Purpose varchar (500);
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
