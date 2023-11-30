@@ -213,14 +213,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10050', 'Art', 'Mural Masters', '800'),
 ('10051', 'Politics', 'Debate Society', '5000');
 
-#####Data deletion
-DELETE FROM CLUB
-WHERE Club_ID='10051'
 
-###UPDATE 10013
-UPDATE CLUB
-SET Purpose = 'Develop and Talk about tech innovation'
-WHERE Club_ID = '10013'
 
 INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE NUMBER) VALUES
 ('1234567890', '555-123-4567'),
