@@ -220,7 +220,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10051', 'Politics', 'Debate Society');
 
 UPDATE CLUB
-SET Budget = ROUND(RAND()) *9900
+SET Budget = ROUND(RAND()) * 
 
 #####Data deletion
 DELETE FROM CLUB
