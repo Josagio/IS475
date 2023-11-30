@@ -347,6 +347,8 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE NUMBER) VALUES
 ('0011223344', '555-001-1223');
 
 
+
+
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
 VALUES --ChatGPT
     (123456, 'John', 'Doe', 'Full-Time', 3.75, 'STU_UNDERGRAD'),
