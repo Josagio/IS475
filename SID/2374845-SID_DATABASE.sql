@@ -47,7 +47,7 @@ Alter Table CLUB
 Alter Table CLUB 
     modify Purpose varchar (500);
 Alter Table Club 
-    ADD COLUMN Budget decimal(7,2);
+    ADD COLUMN Budget decimal(7.2);
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
