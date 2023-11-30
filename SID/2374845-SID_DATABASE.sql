@@ -867,7 +867,7 @@ WHERE Club_ID = '10013'
 
 
 
-\
+
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
 VALUES --ChatGPT
     (123456, 'John', 'Doe', 'Full-Time', 3.75, 'STU_UNDERGRAD'),
