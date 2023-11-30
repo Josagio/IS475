@@ -403,7 +403,6 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 
 
 
-
 -- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis_Topic, Assistant_Type)
 VALUES --ChatGPT
