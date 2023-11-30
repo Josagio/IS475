@@ -219,6 +219,7 @@ VALUES
 ('10049', 'Science', 'Astronomy Club', '1200'),
 ('10050', 'Art', 'Mural Masters', '800'),
 ('10051', 'Politics', 'Debate Society', '5000');
+
 #####Data deletion
 DELETE FROM CLUB
 WHERE Club_ID='10051'
