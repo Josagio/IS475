@@ -1056,7 +1056,7 @@ VALUES -- ChatGPT
 (10283473, 'ALEXANDER', 'REYES', 'F'),
 (10284756, 'MATTHEW', 'BABINA', 'A'),
 (10293746, 'SANDRA', 'NINO', 'F'),
-(10293745, 'LAJUAN', 'DAVIS', 'A');
+(10293745);
 
     Create table MAJOR(
 NSHE_ID char (10) references Student(NSHE_ID),
