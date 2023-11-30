@@ -53,10 +53,10 @@ Alter Table CLUB
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
-    Phone_Number varchar() primary key
+    Phone_Number varchar(7) primary key
 
 );
-
+#
 
 
 ---DATA ENTRY FOR TABLES
