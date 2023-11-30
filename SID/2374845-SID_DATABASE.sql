@@ -865,7 +865,7 @@ UPDATE CLUB
 SET Purpose = 'Develop and Talk about tech innovation'
 WHERE Club_ID = '10013'
 
-
+)
 
 
 INSERT INTO Students (NSHE_ID, First_Name, Last_Name, Enrollment, GPA, Student_Type)
