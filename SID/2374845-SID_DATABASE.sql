@@ -56,7 +56,7 @@ CREATE TABLE STUDENT_PHONE(
     Phone_Number varchar(7) primary key
 
 );
-#Data Update for STUDENT_PHONE
+#Data Update for STUDENT_PHONE 
 
 
 ---DATA ENTRY FOR TABLES
