@@ -33,7 +33,7 @@ SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
 SELECT Enrollment, COUNT(*) AS Student_Count FROM STUDENT GROUP BY Enrollment;
 
 
-#Let me know your thoughts
+#Let me know your thoughts ----
 ---Showcase the full information of an Undergrad Student
 SELECT * FROM STUDENT
 RIGHT OUTER JOIN STU_UNDERGRAD
