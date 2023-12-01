@@ -956,7 +956,7 @@ VALUES --ChatGPT
 
     -- Insert sample data into ENDORSES
 INSERT INTO your_table_name (Club_ID, Staff_ID)
-VALUES -- Data from other tables formatted by Chat
+VALUES -- Data from other tables formatted by Chat GPT
 (101, 502154),
 (102, 10055753),
 (103, 10034711),
