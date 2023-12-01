@@ -55,7 +55,7 @@ SELECT Club_Name
 From CLUB
 Inner Join STAFF
 ON STAFF.Staff_ID = CLUB.STAFF_ID
-Where Staff;
+Where Staff_ID;
 
 SELECT * FROM MAJOR;
 
