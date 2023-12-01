@@ -404,9 +404,6 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 ('10048', '10293746')
 
 
-INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
-('10003', '558229');
-
 
 Create TABLE MAJOR(
 NSHE_ID char (10) primary key references STUDENT(NSHE_ID),
