@@ -31,3 +31,5 @@ SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
 
 #The number of students in each enrollment status:
 SELECT Enrollment, COUNT(*) AS Student_Count FROM STUDENT GROUP BY Enrollment;
+
+SELECT * FROM CLUB RIGHT OUTER JOIN STAFF ON CLUB.Club_ID = STAFF.Club_ID;
