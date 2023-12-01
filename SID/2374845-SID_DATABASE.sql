@@ -417,7 +417,7 @@ Major_Name char (10) not null
 );
 
 CREATE TABLE JOINS(
-NSHE_ID Char (10) references  STUDENT(NSHE_ID),
+    NSHE_ID Char (10) references  STUDENT(NSHE_ID),
 CLUB_ID Char (10) references  CLUB(CLUB_ID)
 );
 
