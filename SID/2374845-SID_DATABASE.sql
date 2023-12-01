@@ -351,6 +351,7 @@ VALUES --ChatGPT
     (414141, 'Educational Gamification', 'Teaching Assistant');
 
     -- Insert sample data into ENDORSES
+    
 
  INSERT INTO your_table_name (Staff_ID, Club_ID)
 VALUES
