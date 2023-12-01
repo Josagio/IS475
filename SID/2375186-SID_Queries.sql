@@ -64,7 +64,7 @@ FROM CLUB, JOINS
 Where CLUB.CLUB_ID = JOINS.CLUB_ID
 GROUP BY Club_Name
 HAVING Members > (SELECT COUNT(DISTINCT JOINS.NSHE_ID)
-                    FROM product p2, inventory i2
+                    FROM CLUB p2, inventory i2
                     WHERE p2.product_id = i2.product_id
                     AND p2.product_name ='Hoppers');
 
