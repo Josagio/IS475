@@ -51,7 +51,7 @@ HAVING
 
 
 ---- what clubs has (313501, 'KARYN', 'BACHMEIER', 'I'), endorsed
-SELECT Club_Name 
+SELECT Club_Name From 
 
 SELECT * FROM MAJOR;
 
