@@ -586,9 +586,6 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 WHERE staff_ID = '10033'
 
 --Add club to another staff
-UPDATE CLUB
-SET Purpose = 'Develop and Talk about tech innovation'
-WHERE Club_ID = '10013'
 UPDATE ENDORSES
 SET Club_ID = '10029'
 WHERE Staff_ID = '10208870'
