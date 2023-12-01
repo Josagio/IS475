@@ -472,7 +472,14 @@ INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 ('5566778885', 'Chemical Engineering'),
 ('2001699515', 'Music Composition');
 
+###Data deletion
+ DELETE from MAJOR
+WHERE NSHE_ID = '222222'
 
+####UPDATE 222222
+UPDATE MAJOR
+SET NSHE_ID = '689027'
+WHERE MAJOR_NAME = 'Chinese'
 
 CREATE TABLE STAFF(
 Staff_ID Char(8) Not Null Primary Key,
