@@ -194,51 +194,52 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Biology', 'BioTech Research Lab', '1122334455'),
 ('Finance', 'Financial Services Ltd.', '9988776655'), 
 ('Mechanical Engineering', 'Mechanical Design Corp.', '6677889900'),
-('Business Administration', 'Business Consulting Group', '1122334455'),  -- Corrected NSHE_ID
-('Computer Engineering', 'Software Innovations', '1122334460'),  -- Corrected NSHE_ID
-('Political Science', 'Government Affairs Office', '1122334462'),  -- Corrected NSHE_ID
-('Economics', 'Economic Research Institute', '1122334464'),  -- Corrected NSHE_ID
-('Chemistry', 'Chemical Lab Innovations', '1122334466'),  -- Corrected NSHE_ID
-('English', 'Publishing House ABC', '1122334468'),  -- Corrected NSHE_ID
-('Information Technology', 'IT Solutions Provider', '1122334470'),  -- Corrected NSHE_ID
-('History', 'Historical Archives', '1122334472'),  -- Corrected NSHE_ID
-('Mathematics', 'Mathematics Research Center', '1122334474'),  -- Corrected NSHE_ID
-('Communication Studies', 'Media Productions Inc.', '1122334476'),  -- Corrected NSHE_ID
-('Industrial Engineering', 'Industrial Solutions Co.', '1122334478'),  -- Corrected NSHE_ID
-('Health Sciences', 'Healthcare Services Group', '1122334480'),  -- Corrected NSHE_ID
-('Sociology', 'Social Research Foundation', '1122334482'),  -- Corrected NSHE_ID
-('Anthropology', 'Anthropological Studies Institute', '1122334484'),  -- Corrected NSHE_ID
-('Environmental Science', 'Environmental Solutions Ltd.', '1122334486'),  -- Corrected NSHE_ID
-('Music', 'Music Production Studio', '1122334488'),  -- Corrected NSHE_ID
-('Physics', 'Physics Research Institute', '1122334490'),  -- Corrected NSHE_ID
-('Art', 'Art Gallery and Studio', '1122334492'),  -- Corrected NSHE_ID
-('Mechatronics Engineering', 'Mechatronics Innovations', '1122334494'),  -- Corrected NSHE_ID
-('Nursing', 'Healthcare Clinics Inc.', '1122334496'),  -- Corrected NSHE_ID
-('Computer Information Systems', 'IT Services Company', '1122334498'),  -- Corrected NSHE_ID
-('Philosophy', 'Philosophical Think Tank', '1122334500'),  -- Corrected NSHE_ID
-('Astronomy', 'Astronomical Observatory', '1122334502'),  -- Corrected NSHE_ID
-('Psychiatry', 'Psychiatric Services Group', '1122334504'),  -- Corrected NSHE_ID
-('Spanish', 'Language Learning Center', '1122334506'),  -- Corrected NSHE_ID
-('Engineering Physics', 'Physics and Engineering Research', '1122334508'),  -- Corrected NSHE_ID
-('Dance', 'Dance Academy', '1122334510'),  -- Corrected NSHE_ID
-('Business Analytics', 'Data Analytics Solutions', '1122334512'),  -- Corrected NSHE_ID
-('Kinesiology', 'Sports and Exercise Institute', '1122334514'),  -- Corrected NSHE_ID
-('French', 'French Language Institute', '1122334516'),  -- Corrected NSHE_ID
-('Mechanical Design', 'Design and Innovation Studio', '1122334518'),  -- Corrected NSHE_ID
-('Management Information Systems', 'MIS Solutions Inc.', '1122334520'),  -- Corrected NSHE_ID
-('Geology', 'Geological Exploration Company', '1122334522'),  -- Corrected NSHE_ID
-('Theater', 'Theater Production Company', '1122334524'),  -- Corrected NSHE_ID
-('Civil Engineering', 'Construction Engineering Ltd.', '1122334526'),  -- Corrected NSHE_ID
-('Computer Science', 'Tech Solutions Inc.', '1122334528'),  -- Corrected NSHE_ID
-('Marketing', 'Marketing Agency XYZ', '1122334530'),  -- Corrected NSHE_ID
-('Electrical Engineering', 'Power Systems Co.', '1122334532'),  -- Corrected NSHE_ID
-('Psychology', 'Mental Health Clinic', '1122334534'),  -- Corrected NSHE_ID
-('Biology', 'BioTech Research Lab', '1122334536'),  -- Corrected NSHE_ID
-('Finance', 'Financial Services Ltd.', '1122334538'),  -- Corrected NSHE_ID
-('Mechanical Engineering', 'Mechanical Design Corp.', '1122334540'),  -- Corrected NSHE_ID
-('Business Administration', 'Business Consulting Group', '1122334542'),  -- Corrected NSHE_ID
-('Computer Engineering', 'Software Innovations', '1122334544'),  -- Corrected NSHE_ID
-('Political Science', 'Government Affairs Office', '1122334546');  -- Corrected NSHE_ID
+('Business Administration', 'Business Consulting Group', '1122334457'),  -- Changed NSHE_ID
+('Computer Engineering', 'Software Innovations', '1122334461'),  -- Changed NSHE_ID
+('Political Science', 'Government Affairs Office', '1122334463'),  -- Changed NSHE_ID
+('Economics', 'Economic Research Institute', '1122334465'),  -- Changed NSHE_ID
+('Chemistry', 'Chemical Lab Innovations', '1122334467'),  -- Changed NSHE_ID
+('English', 'Publishing House ABC', '1122334469'),  -- Changed NSHE_ID
+('Information Technology', 'IT Solutions Provider', '1122334471'),  -- Changed NSHE_ID
+('History', 'Historical Archives', '1122334473'),  -- Changed NSHE_ID
+('Mathematics', 'Mathematics Research Center', '1122334475'),  -- Changed NSHE_ID
+('Communication Studies', 'Media Productions Inc.', '1122334477'),  -- Changed NSHE_ID
+('Industrial Engineering', 'Industrial Solutions Co.', '1122334479'),  -- Changed NSHE_ID
+('Health Sciences', 'Healthcare Services Group', '1122334481'),  -- Changed NSHE_ID
+('Sociology', 'Social Research Foundation', '1122334483'),  -- Changed NSHE_ID
+('Anthropology', 'Anthropological Studies Institute', '1122334485'),  -- Changed NSHE_ID
+('Environmental Science', 'Environmental Solutions Ltd.', '1122334487'),  -- Changed NSHE_ID
+('Music', 'Music Production Studio', '1122334489'),  -- Changed NSHE_ID
+('Physics', 'Physics Research Institute', '1122334491'),  -- Changed NSHE_ID
+('Art', 'Art Gallery and Studio', '1122334493'),  -- Changed NSHE_ID
+('Mechatronics Engineering', 'Mechatronics Innovations', '1122334495'),  -- Changed NSHE_ID
+('Nursing', 'Healthcare Clinics Inc.', '1122334497'),  -- Changed NSHE_ID
+('Computer Information Systems', 'IT Services Company', '1122334499'),  -- Changed NSHE_ID
+('Philosophy', 'Philosophical Think Tank', '1122334501'),  -- Changed NSHE_ID
+('Astronomy', 'Astronomical Observatory', '1122334503'),  -- Changed NSHE_ID
+('Psychiatry', 'Psychiatric Services Group', '1122334505'),  -- Changed NSHE_ID
+('Spanish', 'Language Learning Center', '1122334507'),  -- Changed NSHE_ID
+('Engineering Physics', 'Physics and Engineering Research', '1122334509'),  -- Changed NSHE_ID
+('Dance', 'Dance Academy', '1122334511'),  -- Changed NSHE_ID
+('Business Analytics', 'Data Analytics Solutions', '1122334513'),  -- Changed NSHE_ID
+('Kinesiology', 'Sports and Exercise Institute', '1122334515'),  -- Changed NSHE_ID
+('French', 'French Language Institute', '1122334517'),  -- Changed NSHE_ID
+('Mechanical Design', 'Design and Innovation Studio', '1122334519'),  -- Changed NSHE_ID
+('Management Information Systems', 'MIS Solutions Inc.', '1122334521'),  -- Changed NSHE_ID
+('Geology', 'Geological Exploration Company', '1122334523'),  -- Changed NSHE_ID
+('Theater', 'Theater Production Company', '1122334525'),  -- Changed NSHE_ID
+('Civil Engineering', 'Construction Engineering Ltd.', '1122334527'),  -- Changed NSHE_ID
+('Computer Science', 'Tech Solutions Inc.', '1122334529'),  -- Changed NSHE_ID
+('Marketing', 'Marketing Agency XYZ', '1122334531'),  -- Changed NSHE_ID
+('Electrical Engineering', 'Power Systems Co.', '1122334533'),  -- Changed NSHE_ID
+('Psychology', 'Mental Health Clinic', '1122334535'),  -- Changed NSHE_ID
+('Biology', 'BioTech Research Lab', '1122334537'),  -- Changed NSHE_ID
+('Finance', 'Financial Services Ltd.', '1122334539'),  -- Changed NSHE_ID
+('Mechanical Engineering', 'Mechanical Design Corp.', '1122334541'),  -- Changed NSHE_ID
+('Business Administration', 'Business Consulting Group', '1122334543'),  -- Changed NSHE_ID
+('Computer Engineering', 'Software Innovations', '1122334545'),  -- Changed NSHE_ID
+('Political Science', 'Government Affairs Office', '1122334547');  -- Changed NSHE_ID
+
 
 
 ---UPDATE Data
