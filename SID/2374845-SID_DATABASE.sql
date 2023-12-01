@@ -578,7 +578,6 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 ('10035', '10203251'),
 ('10037', '10212964'),
 ('10038', '10039659'),
-=
 ('10039', '10010889');
 
 --delete from endorses
