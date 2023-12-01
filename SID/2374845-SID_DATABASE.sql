@@ -432,7 +432,7 @@ WHERE MAJOR_NAME = 'Chinese'
 INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (123456, 'International Business'), 
 (789012, 'Entrepreneurship'),
-(345678, 'Information Systems),
+(345678, 'Information Systems'),
 (901234, 'Marketing'), 
 (567890, 'Real Estate'), 
 (123789, 'Finance'),
