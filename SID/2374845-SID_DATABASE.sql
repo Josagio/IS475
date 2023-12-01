@@ -506,7 +506,7 @@ VALUES --ChatGPT
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
-VALUES -- ChatGPT
+
  INSERT INTO your_table_name (Staff_ID, Club_ID)
 VALUES
 (502154, 101),
