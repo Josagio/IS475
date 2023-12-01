@@ -424,14 +424,7 @@ CLUB_ID Char (10) references  CLUB(CLUB_ID)
 Alter Table MAJOR
 Modify Major_Name varchar (75) NOT NULL;
 
-###Data deletion
- DELETE from MAJOR
-WHERE NSHE_ID = '222222'
 
-####UPDATE 222222
-UPDATE MAJOR
-SET NSHE_ID = '689027'
-WHERE MAJOR_NAME = 'Chinese'
 
 ##DATA ENTRY FOR TABLES
 -- Replace data in MAJOR table with data from STUDENT table
