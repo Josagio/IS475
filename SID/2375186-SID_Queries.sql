@@ -1,3 +1,6 @@
+#Retrieve all columns for all clubs:
+SELECT * FROM CLUB
+
 #Retrieve club names for clubs with a budget greater than $5,000:
 SELECT Club_Name FROM CLUB WHERE Budget > 5000;
 
