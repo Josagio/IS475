@@ -418,7 +418,10 @@ CREATE TABLE JOINS(
     CLUB_ID Char (10) references  CLUB(CLUB_ID)
 );
 
-
+Create TABLE MAJOR(
+NSHE_ID char (10) primary key references STUDENT(NSHE_ID),
+Major_Name char (10) not null 
+);
 
 Alter Table MAJOR
 Modify Major_Name varchar (75) NOT NULL;
