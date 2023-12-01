@@ -586,7 +586,9 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 WHERE staff_ID = '10033'
 
 --Add club to another staff
-
+Alter table STU_GRAD
+SET Thesis = 'Bladerunner cultural significance'
+WHERE NSHE_ID = '5566778899';
 
 
 CREATE TABLE JOINS(
