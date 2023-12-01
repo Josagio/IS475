@@ -63,6 +63,17 @@ INSERT INTO STUDENT VALUES
 ('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G'),
 ('2001699515', 'JP', 'Morgan', 'P', 3.7, 'U');
 
+INSERT INTO STUDENT VALUES 
+('3334445556', 'Eva', 'Brown', 'P', 3.7, 'G'),
+('7890123456', 'Michael', 'Taylor', 'F', 2.5, 'U'),
+('6543210987', 'Sophie', 'Martin', 'P', 3.6, 'G'),
+('8901234567', 'William', 'Lee', 'F', 3.0, 'U'),
+('2345678901', 'Emma', 'Johnson', 'P', 3.9, 'G'),
+('4567890123', 'Daniel', 'Clark', 'F', 2.7, 'U'),
+('5678901234', 'Ava', 'Garcia', 'P', 3.8, 'G'),
+('6789012345', 'Matthew', 'Wang', 'F', 3.2, 'U'),
+('7890123456', 'Grace', 'Smith', 'P', 3.5, 'G'),
+('9012345678', 'Caleb', 'Baker', 'F', 2.9, 'U');
 
 
 ---Data deletion
