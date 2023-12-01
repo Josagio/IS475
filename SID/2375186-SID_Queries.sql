@@ -53,7 +53,7 @@ HAVING
 ---- what clubs has (313501, 'KARYN', 'BACHMEIER', 'I'), endorsed
 SELECT Club_Name 
 From CLUB
-Inner Join ENDORSE
+Inner Join ENDORSES
 On CLUB.Club_ID = ENDORSES.Club_ID
 Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
