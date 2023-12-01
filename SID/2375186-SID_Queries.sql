@@ -44,7 +44,6 @@ SELECT COUNT(Student_Type)
 From STUDENT
 Where Student_Type='U'; 26 Each
 
-ENDORSES
-JOINS
+
 MAJOR
 SUTDENT_PHONE
