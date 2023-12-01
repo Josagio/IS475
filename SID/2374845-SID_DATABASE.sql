@@ -955,7 +955,7 @@ VALUES --ChatGPT
 
     -- Insert sample data into ENDORSES
 INSERT INTO your_table_name (Club_ID, Staff_ID)
-VALUES 
+VALUES --
 (101, 502154),
 (102, 10055753),
 (103, 10034711),
