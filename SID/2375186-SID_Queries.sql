@@ -58,6 +58,8 @@ Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where STAFF.Staff_ID = '313501';
 
+
+
 SELECT * FROM MAJOR;
 
 SELECT COUNT(Student_Type)
