@@ -416,7 +416,7 @@ CREATE TABLE JOINS(
     CLUB_ID Char (10) references  CLUB(CLUB_ID)
 );
 
-
+INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 
 
 Create TABLE MAJOR(
