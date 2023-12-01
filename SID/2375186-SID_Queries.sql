@@ -25,8 +25,7 @@ LIMIT 1;
 SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
 
-#Select All
-SELECT * FROM STUDENT_PHONE;
+
 
 #Select 
 SELECT NSHE_ID, Phone_Number FROM STUDENT_PHONE;
