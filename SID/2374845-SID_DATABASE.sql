@@ -470,7 +470,7 @@ CREATE TABLE STU_UNDERGRAD(
 );
 
 Create table MAJOR(
-NSHE_ID char (10) primary key references Student(NSHE_ID),
+NSHE_ID char (10) primary key references STUDENT(NSHE_ID),
 Major_Name char (10) not null 
 );
 
