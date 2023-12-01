@@ -481,7 +481,6 @@ INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 
 
 
-
 CREATE TABLE STAFF(
 Staff_ID Char(8) Not Null Primary Key,
 First_Name Varchar(15),
