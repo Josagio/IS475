@@ -57,7 +57,7 @@ Inner Join ENDORSES
 On CLUB.Club_ID = ENDORSES.Club_ID
 Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
-Where SStaff_ID = '313501';
+Where STAFF.Staff_ID = '313501';
 
 SELECT * FROM MAJOR;
 
