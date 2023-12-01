@@ -32,26 +32,7 @@ CREATE TABLE STU_UNDERGRAD(
     NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
 );
 
-CREATE TABLE CLUB(
-	Club_ID char(5) NOT NULL Primary Key,
-	Purpose varchar (500),
-	Club_Name varchar (30) NOT NULL,
-	Budget decimal (7.2) default 50
-);
 
-ALTER table CLUB
-    modify Budget decimal (7.2) default 100;
-
-###DATA Update for club
-Alter Table CLUB
-   modify Club_Name varchar (30) NOT NULL;
-
-Alter Table CLUB 
-    modify Purpose varchar (500);
-
----It is case sensitive. It will not find it if not spelled exact
-Alter Table CLUB 
-    ADD COLUMN Budget decimal(7.2);
 
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
