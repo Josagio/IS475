@@ -405,7 +405,7 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 
 --delete from endorses
  DELETE from ENDORSES
-WHERE C_ID = '10033'
+WHERE _ID = '10033'
 
 --Add club to another staff
 
