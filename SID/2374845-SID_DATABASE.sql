@@ -237,6 +237,8 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Chemistry', 'Chemical Lab Innovations', '2233445566');
 
 
+
+
 ---Data deletion
 DELETE FROM STU_UNDERGRAD
 WHERE NSHE_ID='1122334466';
