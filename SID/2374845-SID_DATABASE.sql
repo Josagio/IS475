@@ -1103,8 +1103,7 @@ INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 ('5566778886', 'Drama'),
 ('1122334467', 'Nutrition'),
 ('5566778885', 'Chemical Engineering'),
-('2001699515', 'Music Composition');
-INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
+('2001699515', 'Music Composition')
 ('2233445569', 'Computer Science'),
 ('1122334469', 'Psychology'),
 ('2233445570', 'Mechanical Engineering'),
