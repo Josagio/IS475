@@ -447,7 +447,7 @@ VALUES
 ('6677889900', 'Accounting'),
 ('1122334455', 'Economics'), 
 ('5566778899', 'Business Administration'), 
-(''5566778899', 'Management'), 
+('5566778899', 'Management'), 
 ('5544332211', 'Risk Management'), 
 ('2233445566', 'Cyber Security'), 
 ('7788990011', 'Engineering'),
