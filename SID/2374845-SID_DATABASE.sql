@@ -437,7 +437,7 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('5569018892', 'Ava', 'Kelly', 'F', 3.4, 'G'),
 ('6677889914', 'Liam', 'Gonzalez', 'P', 3.8, 'G'),
 ('7788990025', 'Sophia', 'Morgan', 'F', 3.3, 'G'),
-('8899001136', 'Ethan', 'Taylor', 'P', 3.6, 'G');
+('8899001136', 
 
 
 CREATE Table STU_GRAD(
