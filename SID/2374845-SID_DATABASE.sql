@@ -227,7 +227,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10048', 'Sports', 'Golf Gurus', 1500),
 ('10049', 'Science', 'Astronomy Club', 1200),
 ('10050', 'Art', 'Mural Masters', 8000),
-('10051', 'Politics', 'Polorazing Talk', 8000);
+('10051', 'Politics', 'Polorazing Talk', 2500);
 
 
 
