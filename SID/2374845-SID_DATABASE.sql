@@ -586,7 +586,7 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 WHERE staff_ID = '10033'
 
 --Add club to another staff
-Alter table E
+Alter table ENDORSES
 SET Club_ID = '10029'
 WHERE Staff_ID = '10208870'
 AND Club_ID = '10027';
