@@ -589,7 +589,7 @@ WHERE staff_ID = '10033'
 Alter table STU_GRAD
 SET Club_ID = '10029'
 WHERE Staff_ID = '10208870'
-AND Club;
+AND Club+;
 
 
 CREATE TABLE JOINS(
