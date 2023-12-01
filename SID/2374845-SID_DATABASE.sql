@@ -407,7 +407,7 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
  DELETE from ENDORSES
 WHERE Club_ID = '10033'
 
---Add club to another 
+--Add club to another staff
 
 
 Create TABLE MAJOR(
