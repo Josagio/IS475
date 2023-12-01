@@ -292,60 +292,53 @@ Assistant_Type Varchar (20) not null
 
 
 -- Insert sample data into STU_GRAD
-INSERT INTO STU_GRAD (NSHE_ID, Thesis_Topic, Assistant_Type)
-VALUES --ChatGPT
-    (123456, 'Exploring Machine Learning Algorithms', 'Research Assistant'),
-    (789012, 'Environmental Impact of Renewable Energy', 'Teaching Assistant'),
-    (345678, 'Analysis of Economic Trends', 'Research Assistant'),
-    (901234, 'Applications of Nanotechnology', 'Teaching Assistant'),
-    (567890, 'Data Security in Cloud Computing', 'Research Assistant'),
-    (123789, 'Neuroscience and Cognitive Behavior', 'Teaching Assistant'),
-    (890123, 'Urban Planning and Sustainable Development', 'Research Assistant'),
-    (456789, 'Advancements in Artificial Intelligence', 'Teaching Assistant')
-    (111111, 'Robotics in Healthcare', 'Research Assistant'),
-    (222222, 'Impact of Social Media on Society', 'Teaching Assistant'),
-    (333333, 'Biological Conservation Strategies', 'Research Assistant'),
-    (444444, 'Blockchain Applications in Finance', 'Teaching Assistant'),
-    (555555, 'Psychological Aspects of Human-Computer Interaction', 'Research Assistant'),
-    (666666, 'Global Climate Change Mitigation', 'Teaching Assistant'),
-    (777777, 'Ethical Considerations in Artificial Intelligence', 'Research Assistant'),
-    (888888, 'Educational Technology in K-12 Settings', 'Teaching Assistant'),
-    (999999, 'Cancer Research and Treatment', 'Research Assistant'),
-    (101010, 'Impacts of Virtual Reality on Education', 'Teaching Assistant'),
-    (141414, 'Machine Learning in Healthcare', 'Research Assistant'),
-    (151515, 'Sustainable Energy Solutions', 'Teaching Assistant'),
-    (161616, 'Social Media Influence on Consumer Behavior', 'Research Assistant'),
-    (171717, 'Advancements in Nanomedicine', 'Teaching Assistant'),
-    -- Add more data...
-    (181818, 'Urban Transportation Planning', 'Research Assistant'),
-    (191919, 'Psychological Impact of Virtual Reality', 'Teaching Assistant'),
-    (202020, 'Climate Change Policy Analysis', 'Research Assistant'),
-    (212121, 'Artificial Intelligence in Education', 'Teaching Assistant'),
-    -- Add more data...
-    (222222, 'Robotics for Disaster Response', 'Research Assistant'),
-    (232323, 'Financial Markets and Algorithmic Trading', 'Teaching Assistant'),
-    (242424, 'Environmental Psychology', 'Research Assistant'),
-    (252525, 'Blockchain Applications in Supply Chain', 'Teaching Assistant'),
-    -- Add more data...
-    (262626, 'Health Informatics and Patient Care', 'Research Assistant'),
-    (272727, 'Innovations in Educational Technology', 'Teaching Assistant'),
-    (282828, 'Renewable Energy Policy Analysis', 'Research Assistant'),
-    (292929, 'Human-Robot Interaction in Manufacturing', 'Teaching Assistant'),
-    -- Add more data...
-    (303030, 'Cancer Immunotherapy Research', 'Research Assistant'),
-    (313131, 'Ethics in Artificial Intelligence Development', 'Teaching Assistant'),
-    (323232, 'Smart Cities and Urban Sustainability', 'Research Assistant'),
-    (333333, 'Social Impact of Mobile Health Apps', 'Teaching Assistant'),
-    -- Add more data...
-    (343434, 'Neuroscience and Decision Making', 'Research Assistant'),
-    (353535, 'Cryptocurrencies and Decentralized Finance', 'Teaching Assistant'),
-    (363636, 'Economic Analysis of Sustainable Agriculture', 'Research Assistant'),
-    (373737, 'Human-Computer Interaction for Accessibility', 'Teaching Assistant'),
-    -- Add more data...
-    (383838, 'Bioinformatics and Genomic Data Analysis', 'Research Assistant'),
-    (393939, 'Digital Marketing Strategies', 'Teaching Assistant'),
-    (404040, 'Climate Change and Global Health', 'Research Assistant'),
-    (414141, 'Educational Gamification', 'Teaching Assistant');
+-- Insert sample data into STU_GRAD
+INSERT INTO STU_GRAD (NSHE_ID, Thesis, Assistant_Type)
+VALUES
+('1234567890', 'Machine Learning Algorithms for Image Recognition', 'Research'),
+('9876543210', 'Impact of Renewable Energy on Environmental Sustainability', 'Teaching'),
+('5678901234', 'Exploring the Role of Genetics in Cancer Development', 'Research'),
+('0123456789', 'The Influence of Social Media on Political Opinions', 'Teaching'),
+('1112233344', 'Advancements in Quantum Computing', 'Research'),
+('4455667788', 'Psychological Effects of Virtual Reality Experiences', 'Teaching'),
+('9988776655', 'Understanding Human-Computer Interaction', 'Research'),
+('6677889900', 'Enhancing Cybersecurity Measures in Modern Networks', 'Teaching'),
+('1122334455', 'Analyzing the Economic Impact of Global Pandemics', 'Research'),
+('5566778899', 'Promoting Mental Health Awareness in Educational Institutions', 'Teaching'),
+('3322114455', 'The Role of Artificial Intelligence in Financial Forecasting', 'Research'),
+('5544332211', 'Impact of Social Media on Body Image Perception', 'Teaching'),
+('2233445566', 'Advancements in Sustainable Architecture', 'Research'),
+('7788990011', 'Exploring the Potential of 3D Printing in Manufacturing', 'Teaching'),
+('2001922785', 'The Future of Space Exploration and Colonization', 'Research'),
+('3344556677', 'Promoting Diversity and Inclusion in the Workplace', 'Teaching'),
+('1022334455', 'Applications of Augmented Reality in Education', 'Research'),
+('5566768899', 'The Influence of Music on Emotional Well-being', 'Teaching'),
+('1122334456', 'Understanding the Impact of Climate Change on Ecosystems', 'Research'),
+('5566778896', 'Promoting Sustainable Fashion Practices', 'Teaching'),
+('1122334457', 'Advancements in Renewable Energy Storage Technologies', 'Research'),
+('5566778895', 'Exploring Cultural Influences on Consumer Behavior', 'Teaching'),
+('1122334458', 'The Role of Robotics in Modern Manufacturing', 'Research'),
+('5566778894', 'Promoting Eco-friendly Transportation Solutions', 'Teaching'),
+('1122334459', 'Exploring the Potential of Blockchain Technology in Finance', 'Research'),
+('5566778893', 'The Impact of Social Media on Political Activism', 'Teaching'),
+('1122334460', 'Advancements in Biomedical Engineering', 'Research'),
+('5566778892', 'Promoting Mental Health Support in the Workplace', 'Teaching'),
+('1122334461', 'Understanding the Genetics of Neurological Disorders', 'Research'),
+('5566778891', 'The Role of Virtual Reality in Education', 'Teaching'),
+('1122334462', 'Exploring Sustainable Agriculture Practices', 'Research'),
+('5566778890', 'Promoting Gender Equality in the Tech Industry', 'Teaching'),
+('1122334463', 'Advancements in Renewable Energy Generation', 'Research'),
+('5566778889', 'The Influence of Social Media on Teenagers' Mental Health', 'Teaching'),
+('1122334464', 'The Impact of Automation on Employment Trends', 'Research'),
+('5566778888', 'Promoting Environmental Awareness in Local Communities', 'Teaching'),
+('1122334465', 'Understanding the Genetics of Aging', 'Research'),
+('5566778887', 'Advancements in Artificial Intelligence for Healthcare', 'Teaching'),
+('1122334466', 'The Influence of Cultural Background on Consumer Preferences', 'Research'),
+('5566778886', 'Promoting Cybersecurity Awareness in Educational Settings', 'Teaching'),
+('1122334467', 'Exploring the Potential of Quantum Computing in Information Security', 'Research'),
+('5566778885', 'The Impact of Technology on Human Relationships', 'Teaching'),
+('2001699515', 'Promoting Financial Literacy in Underserved Communities', 'Research');
+
 
 -- alter STU_GRAD
 Alter table STU_GRAD
