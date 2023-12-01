@@ -507,26 +507,7 @@ VALUES --ChatGPT
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
 VALUES -- ChatGPT
-  ta...
-    (125, 225),
-    (126, 226),
-    (127, 227),
-    (128, 228),
-    -- Add more data...
-    (129, 229),
-    (130, 230),
-    (131, 231),
-    (132, 232),
-    -- Add more data...
-    (133, 233),
-    (134, 234),
-    (135, 235),
-    (136, 236),
-    -- Add more data...
-    (137, 237),
-    (138, 238),
-    (139, 239),
-    (140, 240);
+ 
 
     Create table MAJOR(
 NSHE_ID char (10) references Student(NSHE_ID),
