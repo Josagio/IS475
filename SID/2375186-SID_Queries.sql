@@ -50,7 +50,7 @@ HAVING
     COUNT(DISTINCT JOINS.NSHE_ID) < 5;
 
 
-----
+---- what clubs has 
 SELECT 
 
 SELECT * FROM MAJOR;
