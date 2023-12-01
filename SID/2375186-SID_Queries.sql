@@ -54,7 +54,7 @@ HAVING
 SELECT Club_Name 
 From CLUB
 Inner Join STAFF
-ON STAFF.Staff_ID = Club.Club
+ON STAFF.Staff_ID = Club.Club_ID
 
 SELECT * FROM MAJOR;
 
