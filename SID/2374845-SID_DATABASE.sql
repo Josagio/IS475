@@ -135,16 +135,19 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Theater', 'Theater Production Company', '5566778885'),
 ('Civil Engineering', 'Construction Engineering Ltd.', '2001699515');
 
-('3334445556', 'Eva', 'Brown', 'P', 3.7, 'G'),
-('2244123456', 'Michael', 'Taylor', 'F', 2.5, 'U'),
-('6543210987', 'Sophie', 'Martin', 'P', 3.6, 'G'),
-('8901234567', 'William', 'Lee', 'F', 3.0, 'U'),
-('2345678901', 'Emma', 'Johnson', 'P', 3.9, 'G'),
-('4567890123', 'Daniel', 'Clark', 'F', 2.7, 'U'),
-('5678991234', 'Ava', 'Garcia', 'P', 3.8, 'G'),
-('6789012345', 'Matthew', 'Wang', 'F', 3.2, 'U'),
-('7890123456', 'Grace', 'Smith', 'P', 3.5, 'G'),
-('9012345678', 'Caleb', 'Baker', 'F', 2.9, 'U');
+INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
+('Computer Science', 'Tech Solutions Inc.', '3334445556'),
+('Marketing', 'Marketing Agency XYZ', '2244123456'),
+('Electrical Engineering', 'Power Systems Co.', '6543210987'),
+('Psychology', 'Mental Health Clinic', '8901234567'),
+('Biology', 'BioTech Research Lab', '2345678901'),
+('Finance', 'Financial Services Ltd.', '4567890123'), 
+('Mechanical Engineering', 'Mechanical Design Corp.', '5678991234'),
+('Business Administration', 'Business Consulting Group', '6789012345'),
+('Computer Engineering', 'Software Innovations', '7890123456'),
+('Political Science', 'Government Affairs Office', '9012345678'),
+('Economics', 'Economic Research Institute', '5544332211'),
+('Chemistry', 'Chemical Lab Innovations', '2233445566');
 
 
 ---Data deletion
