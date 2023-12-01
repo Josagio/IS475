@@ -42,7 +42,7 @@ SELECT * FROM STU_UNDERGRAD;
 
 SELECT COUNT(Student_Type)
 From STUDEN
-Where StudentT;
+Where Student_Type=GT;
 
 ENDORSES
 JOINS
