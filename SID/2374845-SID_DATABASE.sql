@@ -352,7 +352,7 @@ VALUES --ChatGPT
     (414141, 'Educational Gamification', 'Teaching Assistant');
 
 -- alter STU_GRAD
-Al STU_GRAD
+Alter table STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
 WHERE Club_ID = '111111';
 
