@@ -40,7 +40,6 @@ CREATE TABLE CLUB(
 );
 
 
-
 ###DATA Update for club
 Alter Table CLUB
    modify Club_Name varchar (30) NOT NULL;
