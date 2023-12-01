@@ -411,8 +411,6 @@ WHERE staff_ID = '10033'
 
 
 
-
-
 CREATE TABLE JOINS(
     NSHE_ID Char (10) references  STUDENT(NSHE_ID),
     CLUB_ID Char (10) references  CLUB(CLUB_ID)
