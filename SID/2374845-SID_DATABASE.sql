@@ -418,6 +418,8 @@ CREATE TABLE JOINS(
     CLUB_ID Char (10) references  CLUB(CLUB_ID)
 );
 
+
+
 Alter Table MAJOR
 Modify Major_Name varchar (75) NOT NULL;
 
