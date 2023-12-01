@@ -54,7 +54,7 @@ HAVING
 SELECT Club_Name 
 From CLUB
 Inner Join STAFF
-ON St
+ON STAFF.
 
 SELECT * FROM MAJOR;
 
