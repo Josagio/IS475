@@ -252,6 +252,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 
 
 
+
 ---UPDATE Data
 UPDATE STU_UNDERGRAD
 SET Internship_EXP = 'Corsair'
