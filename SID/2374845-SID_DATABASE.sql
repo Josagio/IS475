@@ -408,6 +408,7 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 WHERE NSHE_ID = '10033'
 
 
+
 Create TABLE MAJOR(
 NSHE_ID char (10) primary key references STUDENT(NSHE_ID),
 Major_Name char (10) not null 
