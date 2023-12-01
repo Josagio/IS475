@@ -42,4 +42,4 @@ SELECT * FROM MAJOR;
 
 SELECT COUNT(Student_Type)
 From STUDENT
-Where Student_Type='U'; 26 Each
+Where Student_Type='U';
