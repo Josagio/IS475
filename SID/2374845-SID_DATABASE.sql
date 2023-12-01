@@ -156,6 +156,10 @@ UPDATE STU_UNDERGRAD
 SET Internship_EXP = 'Corsair'
 WHERE NSHE_ID='2001699515';
 
+
+
+
+
 -- Data Insertion with Assigned Budgets
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 ('10001', 'Sports', 'Team A', 200),
