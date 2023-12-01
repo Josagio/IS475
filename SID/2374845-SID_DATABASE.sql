@@ -495,7 +495,7 @@ VALUES
     ('9876543210', 'Digital Sociology Impact on Society', 'Research Assistant');
 
 -- delete STU_GRAD
-DELETE FROM CLUB
+DELETE FROM STU
 WHERE NSHE_ID='6677889909';
 
 -- alter STU_GRAD
