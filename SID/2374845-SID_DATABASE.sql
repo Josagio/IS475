@@ -644,6 +644,9 @@ Last_Name Varchar(15),
 Position Char(1)
 );
 
+--
+-- Dumping data for table customer
+--
 
 INSERT INTO STAFF (Staff_ID, First_Name, Last_Name, Position)
 VALUES (321645, 'KIM', 'ANTUNES', 'A'),
