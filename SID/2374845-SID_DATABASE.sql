@@ -507,27 +507,7 @@ VALUES --ChatGPT
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
 VALUES -- ChatGPT
-    (101,...
-    (109, 209),
-    (110, 210),
-    (111, 211),
-    (112, 212),
-    -- Add more data...
-    (113, 213),
-    (114, 214),
-    (115, 215),
-    (116, 216),
-    -- Add more data...
-    (117, 217),
-    (118, 218),
-    (119, 219),
-    (120, 220),
-    -- Add more data...
-    (121, 221),
-    (122, 222),
-    (123, 223),
-    (124, 224),
-    -- Add more data...
+  ta...
     (125, 225),
     (126, 226),
     (127, 227),
