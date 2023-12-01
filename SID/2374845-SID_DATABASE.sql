@@ -442,7 +442,7 @@ INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (456789, 'Accounting'),
 (111111, 'Economics'), 
 (222222, 'Business Administration'), 
-(333333,'Management'), 
+(333333, 'Management'), 
 (444444, 'Risk Management'), 
 (555555, 'Cyber Security'), 
 (666666, 'Engineering'),
