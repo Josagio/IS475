@@ -59,8 +59,7 @@ ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where STAFF.Staff_ID = '313501';
 
 ---- What Club has the largest budget, and how many members do they have
-SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID
-)
+SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID)
 
 SELECT * FROM MAJOR;
 
