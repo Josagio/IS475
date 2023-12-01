@@ -36,4 +36,4 @@ SELECT Enrollment, COUNT(*) AS Student_Count FROM STUDENT GROUP BY Enrollment;
 #Let me know your thoughts
 SELECT * FROM STUDENT
 RIGHT OUTER JOIN STU_UNDERGRAD
-ON STUDENT.NSHE_ID=Promotion.Product_ID;
+ON STUDENT.NSHE_ID=STU_UNDERGRAD.Product_ID;
