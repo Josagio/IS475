@@ -59,7 +59,7 @@ ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where STAFF.Staff_ID = '313501';
 
 ---- How man clubs have more members than Astronomy Club
-SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID) as '# of Members'
+SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID) as Members
 FROM CLUB, JOINS
 Where CLUB.CLUB_ID = JOINS.CLUB_ID
 GROUP BY Club_Name
