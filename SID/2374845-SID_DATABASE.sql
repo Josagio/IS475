@@ -339,8 +339,6 @@ VALUES
 
 
 
-
-
 -- alter STU_GRAD
 Alter table STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
@@ -406,7 +404,7 @@ VALUES
 
 
 
-Create TABLE MAJOR(
+Create ta MAJOR(
 NSHE_ID char (10) primary key references STUDENT(NSHE_ID),
 Major_Name char (10) not null 
 );
