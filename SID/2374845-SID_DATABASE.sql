@@ -292,7 +292,6 @@ Assistant_Type Varchar (20) not null
 
 
 -- Insert sample data into STU_GRAD
-
 INSERT INTO STU_GRAD (NSHE_ID, Thesis, Assistant_Type)
 VALUES
 ('1234567890', 'ML Algorithms for Image Recognition', 'Research'),
