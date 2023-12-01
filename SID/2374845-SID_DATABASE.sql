@@ -238,7 +238,6 @@ WHERE Club_ID = '10013'
 
 
 
-
 -- Replace the NULL values with new unique values
 UPDATE CLUB
 SET Budget = CASE
