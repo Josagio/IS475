@@ -425,8 +425,7 @@ Assistant_Type Varchar (20) not null
 );
 
 
--- Insert sample data into STU_GRAD
--- Insert sample data into STU_GRAD
+
 -- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis, Assistant_Type)
 VALUES
