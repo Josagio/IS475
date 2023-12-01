@@ -357,6 +357,9 @@ SET Thesis = 'Bladerunner cultural significance'
 WHERE Club_ID = '111111'
 
 
+
+
+
     -- Insert sample data into ENDORSES
     INSERT INTO ENDORSES (Club_ID, Staff_ID)
 VALUES
