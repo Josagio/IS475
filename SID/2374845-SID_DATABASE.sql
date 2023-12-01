@@ -804,6 +804,7 @@ VALUES --ChatGPT
 -- update stu_grad data--
 
 
+
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (Club_ID, Staff_ID)
 VALUES -- Data from other tables formatted by ChatGPT -- 
