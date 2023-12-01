@@ -224,7 +224,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Computer Science', 'Tech Solutions Inc.', '0012345712'),
 ('Marketing', 'Social Media Innovations', '0012345713'),
 ('Environmental Science', 'Green Earth Solutions', '0012345714'),
-('Business Administration, Global Enterprises', '0012345715'),
+('Business Administration', 'Global Enterprises', '0012345715'),
 ('Computer Engineering', 'Tech Innovators Ltd.', '0012345716'),
 ('Physics', 'Quantum Dynamics Research', '0012345717'),
 ('Political Science', 'Government Affairs Inc.', '0012345718'),
