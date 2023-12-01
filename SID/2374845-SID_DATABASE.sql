@@ -354,7 +354,7 @@ VALUES --ChatGPT
 -- alter STU_GRAD
 Alter table STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
-WHERE Club_ID = '111111';
+WHERE NSHE = '111111';
 
 
 
