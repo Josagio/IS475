@@ -403,8 +403,8 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 ('10047', '10293746'),
 ('10048', '10293746')
 
- DELETE from ENDORSES
-WHERE Staff_ID = '222222'
+ DELETE from En
+WHERE NSHE_ID = '222222'
 Create TABLE MAJOR(
 NSHE_ID char (10) primary key references STUDENT(NSHE_ID),
 Major_Name char (10) not null 
