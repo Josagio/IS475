@@ -405,7 +405,7 @@ INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 
 --delete from endorses
  DELETE from ENDORSES
-WHERE C = '10033'
+WHERE Club_ID = '10033'
 
 
 Create TABLE MAJOR(
