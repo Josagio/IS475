@@ -339,7 +339,7 @@ VALUES
 ('1122334467', 'Quantum Computing in Information Security', 'Teaching'),
 ('5566778885', 'Technology Impact on Human Relationships', 'Research'),
 ('2001699515', 'Financial Literacy in Underserved Communities', 'Teaching');
-
+ 
 
 
 -- alter STU_GRAD
