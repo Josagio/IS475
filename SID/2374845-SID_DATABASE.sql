@@ -284,6 +284,11 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('2001699515', '5556048765');
 
 
+CREATE Table STU_GRAD(
+NSHE_ID char(10) primary key references STUDENT(NSHE_ID),
+Thesis Varchar (55) not null,
+Assistant_Type Varchar (20) not null
+);
 
 
 -- Insert sample data into STU_GRAD
