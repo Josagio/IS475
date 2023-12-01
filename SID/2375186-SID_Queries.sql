@@ -46,7 +46,7 @@ SELECT COUNT(Student_Type)
 From STUDENT
 Where Student_Type='U'; 
 
-SELECT CLUB.Club_Name AS 'Ineligble Club Name', COUNT(DISTINCT JOINS.NSHE_ID) AS '#
+SELECT CLUB.Club_Name AS 'Ineligble Club Name', COUNT(DISTINCT JOINS.NSHE_ID) AS '# of Student Members
 FROM CLUB
 LEFT Outer JOIN JOINS
 ON CLUB.Club_ID = JOINS.CLUB_ID
