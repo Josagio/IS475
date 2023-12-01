@@ -60,7 +60,7 @@ CREATE TABLE STUDENT_PHONE(
 Alter Table STUDENT_PHONE
     modify Phone_Number varchar(10);
 
-DROP
+DROP 
 
 ---DATA ENTRY FOR TABLES
 
