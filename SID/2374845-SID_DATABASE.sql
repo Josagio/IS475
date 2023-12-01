@@ -505,7 +505,7 @@ VALUES --ChatGPT
     (414141, 'Educational Gamification', 'Teaching Assistant');
 
     -- Insert sample data into ENDORSES
-INSERT INT
+
  INSERT INTO your_table_name (Staff_ID, Club_ID)
 VALUES
 (502154, 101),
