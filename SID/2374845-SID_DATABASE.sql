@@ -36,7 +36,7 @@ CREATE TABLE CLUB(
 	Club_ID char(5) NOT NULL Primary Key,
 	Purpose varchar (500),
 	Club_Name varchar (30) NOT NULL,
-	Budget decimal (7.2) default 100
+	Budget decimal (7.2) default 50
 );
 
 ALTER table CLUB
