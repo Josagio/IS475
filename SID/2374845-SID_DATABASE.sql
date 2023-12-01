@@ -213,7 +213,7 @@ INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
 
 
 
-#Data deletion
+---Data deletion
 DELETE FROM CLUB
 WHERE Club_ID='10051'
 
