@@ -50,7 +50,7 @@ HAVING
     COUNT(DISTINCT JOINS.NSHE_ID) < 5;
 
 
----- what clubs has 
+---- what clubs has (313501, 'KARYN', 'BACHMEIER', 'I'), endorsed
 SELECT 
 
 SELECT * FROM MAJOR;
