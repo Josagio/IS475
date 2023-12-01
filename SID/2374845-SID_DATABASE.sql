@@ -955,14 +955,6 @@ VALUES --ChatGPT
 
     -- Insert sample data into ENDORSES
 
-    (134, 234),
-    (135, 235),
-    (136, 236),
-    -- Add more data...
-    (137, 237),
-    (138, 238),
-    (139, 239),
-    (140, 240);
     
 
 
