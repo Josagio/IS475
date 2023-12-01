@@ -610,7 +610,7 @@ Staff_ID char (8) not null references STAFF(Staff_ID)
 
 
 CREATE Table STU_GRAD(
-NSHE_ID char(10) primary key references STUDENT(NSHE_ID) ,
+NSHE_ID char(10) primary key references STUDENT(NSHE_ID) on update cascade,
 Thesis Varchar 55) not null,
 Assistant_Type Varchar (20) not null,
 );
