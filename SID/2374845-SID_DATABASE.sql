@@ -328,7 +328,7 @@ VALUES
 ('1122334462', 'Exploring Sustainable Agriculture Practices', 'Research'),
 ('5566778890', 'Promoting Gender Equality in the Tech Industry', 'Teaching'),
 ('1122334463', 'Advancements in Renewable Energy Generation', 'Research'),
-('5566778889', 'The Influence of Social Media on Teenagers' Mental Health', 'Teaching'),
+('5566778889', 'The Influence of Social Media on Teenagers' 'Mental Health', 'Teaching'),
 ('1122334464', 'The Impact of Automation on Employment Trends', 'Research'),
 ('5566778888', 'Promoting Environmental Awareness in Local Communities', 'Teaching'),
 ('1122334465', 'Understanding the Genetics of Aging', 'Research'),
