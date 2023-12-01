@@ -339,6 +339,8 @@ VALUES
 
 
 
+
+
 -- alter STU_GRAD
 Alter table STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
