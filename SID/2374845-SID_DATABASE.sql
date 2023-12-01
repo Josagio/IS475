@@ -238,7 +238,17 @@ WHERE Club_ID = '10013'
 #UPDATE FOR VALUES IN BUDGET COLUMN FOR CLUB_ID 
 
 
+CREATE TABLE STUDENT_PHONE(
+    NSHE_ID char(10) references STUDENT(NSHE_ID),
+    Phone_Number varchar(10) primary key
 
+);
+#Data Update for STUDENT_PHONE 
+Alter Table STUDENT_PHONE
+    modify Phone_Number varchar(10);
+
+
+---DATA ENTRY FOR TABLES
 
 
 --------- replaced NSHEID with actual NSHEID from STUDENT TABLE
