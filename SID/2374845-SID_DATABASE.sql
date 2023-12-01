@@ -499,7 +499,7 @@ DELETE FROM STU_GRAD
 WHERE NSHE_ID='6677889909';
 
 -- alter STU_GRAD
-Alter table STU_GRAD
+UPDATE STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
 WHERE NSHE_ID = '5566778899';
 
