@@ -85,6 +85,13 @@ SET GPA = '3.9'
 WHERE NSHE_ID='1122334459';
 
 
+CREATE TABLE STU_UNDERGRAD(
+    Minor varchar(55) not null,
+    Internship_Exp varchar(35),
+    NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
+);
+
+
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Computer Science', 'Tech Solutions Inc.', '1234567890'),
 ('Marketing', 'Marketing Agency XYZ', '9876543210'),
