@@ -54,6 +54,7 @@ HAVING
 SELECT Club_Name 
 From CLUB
 
+
 SELECT * FROM MAJOR;
 
 SELECT COUNT(Student_Type)
