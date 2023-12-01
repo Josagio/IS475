@@ -480,7 +480,14 @@ INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 ('2001699515', 'Quantitative Finance'),
 ('1234567891', 'French Studies'),
 ('9876543211', 'English'),
-('5678901235', 'Ga
+('5678901235', 'Gaming Law'),
+('0123456790', 'Sexuality Studies'),
+('1112233345', 'Geology'),
+('4455667789', 'Geoscience'),
+('9988776656', 'German Studies'),
+('6677889901', 'Gerontology'),
+('1122334456', 'Science');
+
 
 
 
