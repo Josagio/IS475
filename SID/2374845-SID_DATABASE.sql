@@ -850,6 +850,7 @@ VALUES --ChatGPT
     (404040, 'Climate Change and Global Health', 'Research Assistant'),
     (414141, 'Educational Gamification', 'Teaching Assistant');
 
+
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (Club_ID, Staff_ID)
 VALUES -- Data from other tables formatted by ChatGPT -- 
