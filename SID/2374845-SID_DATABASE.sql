@@ -467,7 +467,7 @@ INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (292929, 'Data Analytics'),
 (303030, 'Construction Management'),
 (313131, 'Creative Writing'),
-(323232, 'Criminology),
+(323232, 'Criminology'),
 (343434, 'Emergency and Crisis Management'),
 (353535, 'Earth and Environmental Science'),
 (363636, 'Educational Psychology'),
