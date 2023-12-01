@@ -494,7 +494,7 @@ VALUES
     ('8899001136', 'Cyber-Physical Systems Integration', 'Teaching Assistant'),
     ('9876543210', 'Digital Sociology Impact on Society', 'Research Assistant');
 
-
+---
 
 
 -- alter STU_GRAD
