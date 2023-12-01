@@ -494,7 +494,7 @@ VALUES
     ('8899001136', 'Cyber-Physical Systems Integration', 'Teaching Assistant'),
     ('9876543210', 'Digital Sociology Impact on Society', 'Research Assistant');
 
--- delete 
+-- delete STU_GRAD
 
 
 -- alter STU_GRAD
