@@ -113,7 +113,7 @@ INSERT INTO STUDENT VALUES
 ('6677889901', 'Ethan', 'Barnes', 'F', 3.8, 'U'),
 ('7788990012', 'Aria', 'Phillips', 'P', 3.5, 'U'),
 ('8899001123', 'Mia', 'Fisher', 'F', 3.0, 'U'),
-('1122334460', 'Lucas', 'Gomez', 'P', 3.9, 'U'),
+('22334460', 'Lucas', 'Gomez', 'P', 3.9, 'U'),
 ('2233445561', 'Lily', 'Collins', 'F', 3.2, 'U'),
 ('3344556672', 'Jackson', 'Sanders', 'P', 3.6, 'U'),
 ('4455667783', 'Emma', 'Floyd', 'F', 3.1, 'U'),
