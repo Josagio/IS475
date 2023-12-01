@@ -40,7 +40,7 @@ CREATE TABLE CLUB(
 );
 
 ALTER table CLUB
-
+    
 
 ###DATA Update for club
 Alter Table CLUB
