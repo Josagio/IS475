@@ -235,7 +235,7 @@ UPDATE CLUB
 SET Purpose = 'Develop and Talk about tech innovation'
 WHERE Club_ID = '10013'
 
-#UPDATE FOR VALUES IN BUDGET COLUMN FOR CLUB_ID 
+
 
 
 
