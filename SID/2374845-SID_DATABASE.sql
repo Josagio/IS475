@@ -429,7 +429,7 @@ Modify Major_Name varchar (75) NOT NULL;
 
 
 
-##DATA ENTRY FOR TABLES
+--DATA ENTRY FOR TABLES
 -- Replace data in MAJOR table with data from STUDENT table
 INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 ('1234567890', 'Computer Science'),
