@@ -503,6 +503,10 @@ Alter table STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
 WHERE NSHE_ID = '5566778899';
 
+UPDATE CLUB
+SET Purpose = 'Develop and Talk about tech innovation'
+WHERE Club_ID = '10013'
+
 
 
 CREATE Table ENDORSES(
