@@ -903,7 +903,7 @@ VALUES -- Data from other tables formatted by ChatGPT --
 (139, 10047721),
 (140, 10283473);
 
-i
+
 Create table MAJOR(
 NSHE_ID char (10) references Student(NSHE_ID),
 Major_Name char (10) not null,
