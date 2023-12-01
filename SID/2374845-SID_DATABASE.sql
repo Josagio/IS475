@@ -424,7 +424,7 @@ Modify Major_Name varchar (20) NOT NULL;
 ###Data deletion
  DELETE from MAJOR
 WHERE NSHE_ID = '222222'
---add club back to 
+--add club 
 
 ####UPDATE 222222
 UPDATE MAJOR
