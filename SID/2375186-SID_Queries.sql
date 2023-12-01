@@ -44,4 +44,16 @@ SELECT * FROM MAJOR;
 
 SELECT COUNT(Student_Type)
 From STUDENT
-Where Student_Type='U';
+Where Student_Type='U'; 
+
+SELECT
+    c.Club_Name,
+    COUNT(j.NSHE_ID) AS StudentCount
+FROM
+    CLUB c
+LEFT JOIN
+    JOINS j ON c.Club_ID = j.CLUB_ID
+GROUP BY
+    c.Club_ID, c.Club_Name
+HAVING
+    COUNT(DISTINCT j.NSHE_ID) < 5;
