@@ -845,7 +845,7 @@ VALUES --ChatGPT
     (393939, 'Digital Marketing Strategies', 'Teaching Assistant'),
     (404040, 'Climate Change and Global Health', 'Research Assistant'),
     (414141, 'Educational Gamification', 'Teaching Assistant');
--- update stu_grade
+-- update stu_grad table
 
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (Club_ID, Staff_ID)
