@@ -258,7 +258,9 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Computer Science', 'AI Technologies Development', '9988776650'),
 ('Computer Science', 'Software Engineering Solutions', '9988776655');
 
-
+---Data deletion
+DELETE FROM STU_UNDERGRAD
+WHERE NSHE_ID='1122334466';
 
 
 
