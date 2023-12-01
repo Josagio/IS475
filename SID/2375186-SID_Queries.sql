@@ -54,7 +54,7 @@ HAVING
 SELECT Club_Name 
 From CLUB
 Inner Join ENDORSE
-On CLUB.Club_ID = ENDORSES.Club
+On CLUB.Club_ID = ENDORSES.Club_ID
 Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where Staff_ID = '313501';
