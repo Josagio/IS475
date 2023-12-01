@@ -189,7 +189,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Finance', 'Financial Services Ltd.', '9988776655'), 
 ('Mechanical Engineering', 'Mechanical Design Corp.', '6677889900'),
 ('Business Administration', 'Business Consulting Group', '1122334456'),
-('Computer Engineering', 'Software Innovations', '3322114455'),
+('Computer Engineering', 'Software Innovations', '1122334468'),
 ('Political Science', 'Government Affairs Office', '1122334458'),
 ('Economics', 'Economic Research Institute', '1122334460'),
 ('Chemistry', 'Chemical Lab Innovations', '1122334462'),
