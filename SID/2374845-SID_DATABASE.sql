@@ -181,6 +181,7 @@ CREATE TABLE STU_UNDERGRAD(
 
 
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
+INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Computer Science', 'Tech Solutions Inc.', '1234567890'),
 ('Marketing', 'Marketing Agency XYZ', '5678901234'),
 ('Electrical Engineering', 'Power Systems Co.', '1112233344'),
@@ -195,7 +196,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Chemistry', 'Chemical Lab Innovations', '1122334462'),
 ('English', 'Publishing House ABC', '1122334464'),
 ('Information Technology', 'IT Solutions Provider', '1122334466'),
-('History', 'Historical Archives', '2233445561'),
+('History', 'Historical Archives', '2233445566'),  -- Corrected NSHE_ID
 ('Mathematics', 'Mathematics Research Center', '1122334470'),
 ('Communication Studies', 'Media Productions Inc.', '1122334472'),
 ('Industrial Engineering', 'Industrial Solutions Co.', '1122334474'),
@@ -235,6 +236,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Political Science', 'Government Affairs Office', '1122334542'),
 ('Economics', 'Economic Research Institute', '1122334544'),
 ('Chemistry', 'Chemical Lab Innovations', '1122334546');
+
 
 
 
