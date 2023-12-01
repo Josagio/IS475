@@ -422,7 +422,7 @@ CLUB_ID Char (10) references  CLUB(CLUB_ID)
 );
 
 Alter Table MAJOR
-Modify Major_Name varchar (20) NOT NULL;
+Modify Major_Name varchar (3) NOT NULL;
 
 ###Data deletion
  DELETE from MAJOR
