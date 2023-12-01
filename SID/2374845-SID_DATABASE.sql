@@ -353,7 +353,7 @@ VALUES --ChatGPT
 -- alter STU_GRAD
 udate STU_GRAD
 set = Thesis = 'Bladerunner cultural significance'
-where nshe= 111111
+where nshe= 111111;
 
     -- Insert sample data into ENDORSES
     INSERT INTO ENDORSES (Club_ID, Staff_ID)
