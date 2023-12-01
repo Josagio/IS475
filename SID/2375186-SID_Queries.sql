@@ -28,3 +28,6 @@ SELECT NSHE_ID, Phone_Number FROM STUDENT_PHONE;
 
 #Select phone number with 555
 SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
+
+
+SELECT Enrollment, COUNT(*) AS Student_Count FROM STUDENT GROUP BY Enrollment;
