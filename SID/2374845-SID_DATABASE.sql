@@ -587,7 +587,7 @@ WHERE staff_ID = '10033'
 
 --Add club to another staff
 Alter table STU_GRAD
-SET Club_ID = 'Bladerunner cultural significance'
+SET Club_ID = ''
 WHERE NSHE_ID = '5566778899';
 
 
