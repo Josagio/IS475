@@ -55,6 +55,7 @@ SELECT Club_Name
 From CLUB
 Inner Join STAFF
 
+
 SELECT * FROM MAJOR;
 
 SELECT COUNT(Student_Type)
