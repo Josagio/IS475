@@ -195,7 +195,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Chemistry', 'Chemical Lab Innovations', '1122334462'),
 ('English', 'Publishing House ABC', '1122334464'),
 ('Information Technology', 'IT Solutions Provider', '1122334466'),
-('History', 'Historical Archives', '1122334468'),
+('History', 'Historical Archives', '2233445561'),
 ('Mathematics', 'Mathematics Research Center', '1122334470'),
 ('Communication Studies', 'Media Productions Inc.', '1122334472'),
 ('Industrial Engineering', 'Industrial Solutions Co.', '1122334474'),
