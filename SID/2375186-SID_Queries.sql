@@ -56,7 +56,7 @@ From CLUB
 Inner Join ENDORSE
 On CLUB.Club_ID = ENDORSES
 Inner Join STAFF
-ON STAFF.Staff_ID = ENDORSEs.Staff_ID
+ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where Staff_ID = '313501';
 
 SELECT * FROM MAJOR;
