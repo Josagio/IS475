@@ -58,7 +58,7 @@ Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where STAFF.Staff_ID = '313501';
 
----- What Club has the largest budget
+---- What Club has the largest budget, and how many members do they have
 
 SELECT * FROM MAJOR;
 
