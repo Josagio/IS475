@@ -486,7 +486,8 @@ INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 ('4455667789', 'Geoscience'),
 ('9988776656', 'German Studies'),
 ('6677889901', 'Gerontology'),
-('1122334468', 'Science'); 
+('1122334468', 'Science'); -- Added a unique NSHE_ID for the duplicate entry
+
 
 
 
