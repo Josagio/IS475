@@ -48,7 +48,7 @@ Where Student_Type='U';
 
 SELECT CLUB.Club_Name, COUNT(JOINS.NSHE_ID) AS StudentCount
 FROM CLUB
-LEFT Outer JOIN J
+LEFT Outer JOIN JOINS
  ON c.Club_ID = j.CLUB_ID
 GROUP BY
     c.Club_ID, c.Club_Name
