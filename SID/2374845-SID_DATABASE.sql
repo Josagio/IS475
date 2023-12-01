@@ -954,29 +954,7 @@ VALUES --ChatGPT
     (414141, 'Educational Gamification', 'Teaching Assistant');
 
     -- Insert sample data into ENDORSES
-INSERT INTO ENDORSES (CLUB_ID, STAFF_ID)
-VALUES -- ChatGPT
-    (101, 201),
-    (102, 202),
-    (103, 203),
-    (104, 204),
-    (105, 205)
-     (106, 206),
-    (107, 207),
-    (108, 208),
-    (109, 209),
-    (110, 210),
-    (105, 205),
-    (106, 206),
-    (107, 207),
-    (108, 208),
-    -- Add more data...
-    (109, 209),
-    (110, 210),
-    (111, 211),
-    (112, 212),
-    -- Add more data...
-    (113, 213),
+
     (114, 214),
     (115, 215),
     (116, 216),
