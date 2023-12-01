@@ -49,7 +49,6 @@ GROUP BY
 HAVING
     COUNT(DISTINCT JOINS.NSHE_ID) < 5;
 
-
 ---- what clubs has Karyn Bachmeier been apart of (STAFF ID: 313501)
 SELECT Club_Name 
 From CLUB
