@@ -213,7 +213,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Computer Information Systems', 'IT Services Company', '1122334461'),
 ('Philosophy', 'Philosophical Think Tank', '5566778891'),
 ('Astronomy', 'Astronomical Observatory', '1122334462'),
-('Psychiatry', 'Psychiatric Services Group', '2778890'),
+('Psychiatry', 'Psychiatric Services Group', '200778890'),
 ('Spanish', 'Language Learning Center', '1122334463'),
 ('Engineering Physics', 'Physics and Engineering Research', '5566778889'),
 ('Dance', 'Dance Academy', '1122334464'),
