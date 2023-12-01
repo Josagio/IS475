@@ -180,7 +180,7 @@ CREATE TABLE STU_UNDERGRAD(
 );
 
 
-INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
+
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Computer Science', 'Tech Solutions Inc.', '1234567890'),
 ('Marketing', 'Marketing Agency XYZ', '5678901234'),
