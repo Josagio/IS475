@@ -344,7 +344,7 @@ VALUES
 -- alter STU_GRAD
 Alter table STU_GRAD
 SET Thesis = 'Bladerunner cultural significance'
-WHERE NSHE_ID = '111111';
+WHERE NSHE_ID = '5566778899';
 
 
 
