@@ -39,7 +39,7 @@ CREATE TABLE CLUB(
 	Budget decimal (7.2) default 100
 );
 
-drop table club;
+drop table CLUB;
 
 ALTER table CLUB
     modify Budget decimal (7.2) default 100;
