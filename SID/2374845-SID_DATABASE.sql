@@ -188,57 +188,67 @@ WHERE NSHE_ID='1122334466';
 
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Computer Science', 'Tech Solutions Inc.', '1234567890'),
-('Marketing', 'Marketing Agency XYZ', '5678901234'),
-('Electrical Engineering', 'Power Systems Co.', '1112233344'),
-('Psychology', 'Mental Health Clinic', '4455667788'),
-('Biology', 'BioTech Research Lab', '1122334455'),
-('Finance', 'Financial Services Ltd.', '9988776655'), 
-('Mechanical Engineering', 'Mechanical Design Corp.', '6677889900'),
-('Business Administration', 'Business Consulting Group', '1122334457'),  -- Changed NSHE_ID
-('Computer Engineering', 'Software Innovations', '1122334461'),  -- Changed NSHE_ID
-('Political Science', 'Government Affairs Office', '1122334463'),  -- Changed NSHE_ID
-('Economics', 'Economic Research Institute', '1122334465'),  -- Changed NSHE_ID
-('Chemistry', 'Chemical Lab Innovations', '1122334467'),  -- Changed NSHE_ID
-('English', 'Publishing House ABC', '1122334469'),  -- Changed NSHE_ID
-('Information Technology', 'IT Solutions Provider', '1122334471'),  -- Changed NSHE_ID
-('History', 'Historical Archives', '1122334473'),  -- Changed NSHE_ID
-('Mathematics', 'Mathematics Research Center', '1122334475'),  -- Changed NSHE_ID
-('Communication Studies', 'Media Productions Inc.', '1122334477'),  -- Changed NSHE_ID
-('Industrial Engineering', 'Industrial Solutions Co.', '1122334479'),  -- Changed NSHE_ID
-('Health Sciences', 'Healthcare Services Group', '1122334481'),  -- Changed NSHE_ID
-('Sociology', 'Social Research Foundation', '1122334483'),  -- Changed NSHE_ID
-('Anthropology', 'Anthropological Studies Institute', '1122334485'),  -- Changed NSHE_ID
-('Environmental Science', 'Environmental Solutions Ltd.', '1122334487'),  -- Changed NSHE_ID
-('Music', 'Music Production Studio', '1122334489'),  -- Changed NSHE_ID
-('Physics', 'Physics Research Institute', '1122334491'),  -- Changed NSHE_ID
-('Art', 'Art Gallery and Studio', '1122334493'),  -- Changed NSHE_ID
-('Mechatronics Engineering', 'Mechatronics Innovations', '1122334495'),  -- Changed NSHE_ID
-('Nursing', 'Healthcare Clinics Inc.', '1122334497'),  -- Changed NSHE_ID
-('Computer Information Systems', 'IT Services Company', '1122334499'),  -- Changed NSHE_ID
-('Philosophy', 'Philosophical Think Tank', '1122334501'),  -- Changed NSHE_ID
-('Astronomy', 'Astronomical Observatory', '1122334503'),  -- Changed NSHE_ID
-('Psychiatry', 'Psychiatric Services Group', '1122334505'),  -- Changed NSHE_ID
-('Spanish', 'Language Learning Center', '1122334507'),  -- Changed NSHE_ID
-('Engineering Physics', 'Physics and Engineering Research', '1122334509'),  -- Changed NSHE_ID
-('Dance', 'Dance Academy', '1122334511'),  -- Changed NSHE_ID
-('Business Analytics', 'Data Analytics Solutions', '1122334513'),  -- Changed NSHE_ID
-('Kinesiology', 'Sports and Exercise Institute', '1122334515'),  -- Changed NSHE_ID
-('French', 'French Language Institute', '1122334517'),  -- Changed NSHE_ID
-('Mechanical Design', 'Design and Innovation Studio', '1122334519'),  -- Changed NSHE_ID
-('Management Information Systems', 'MIS Solutions Inc.', '1122334521'),  -- Changed NSHE_ID
-('Geology', 'Geological Exploration Company', '1122334523'),  -- Changed NSHE_ID
-('Theater', 'Theater Production Company', '1122334525'),  -- Changed NSHE_ID
-('Civil Engineering', 'Construction Engineering Ltd.', '1122334527'),  -- Changed NSHE_ID
-('Computer Science', 'Tech Solutions Inc.', '1122334529'),  -- Changed NSHE_ID
-('Marketing', 'Marketing Agency XYZ', '1122334531'),  -- Changed NSHE_ID
-('Electrical Engineering', 'Power Systems Co.', '1122334533'),  -- Changed NSHE_ID
-('Psychology', 'Mental Health Clinic', '1122334535'),  -- Changed NSHE_ID
-('Biology', 'BioTech Research Lab', '1122334537'),  -- Changed NSHE_ID
-('Finance', 'Financial Services Ltd.', '1122334539'),  -- Changed NSHE_ID
-('Mechanical Engineering', 'Mechanical Design Corp.', '1122334541'),  -- Changed NSHE_ID
-('Business Administration', 'Business Consulting Group', '1122334543'),  -- Changed NSHE_ID
-('Computer Engineering', 'Software Innovations', '1122334545'),  -- Changed NSHE_ID
-('Political Science', 'Government Affairs Office', '1122334547');  -- Changed NSHE_ID
+('Marketing', 'ABC Marketing Agency', '5678901234'),
+('Environmental Science', 'Green Earth Solutions', '1112233344'),
+('Business Administration', 'Global Enterprises', '9988776655'),
+('Computer Engineering', 'Tech Innovators Ltd.', '1122334455'),
+('Mathematics', 'Quantum Analytics', '3322114455'),
+('Psychology', 'Mindful Solutions', '2233445566'),
+('Finance', 'Capital Investments LLC', '2001922785'),
+('Computer Science', 'Tech Solutions Inc.', '1022334455'),
+('Marketing', 'Digital Media Solutions', '1122334457'),
+('Chemistry', 'Lab Sciences Research', '1122334459'),
+('Business Administration', 'Global Enterprises', '1122334461'),
+('Computer Engineering', 'Tech Innovators Ltd.', '1122334462'),
+('Physics', 'Quantum Dynamics Research', '1122334463'),
+('Political Science', 'Government Affairs Inc.', '1122334465'),
+('Economics', 'Financial Strategies Group', '1122334466'),
+('Computer Science', 'Tech Solutions Inc.', '1122334468'),
+('Marketing', 'Social Media Innovations', '1122334469'),
+('Environmental Science', 'Green Earth Solutions', '3344556677'),
+('Business Administration', 'Global Enterprises', '6789012345'),
+('Computer Engineering', 'Tech Innovators Ltd.', '9012345678'),
+('Mathematics', 'Data Analytics Co.', '6543219870'),
+('Finance', 'Investment Ventures LLC', '3210986543'),
+('Psychology', 'Mindful Solutions', '2109875432'),
+('Economics', 'Financial Strategies Group', '9876543219'),
+('Computer Science', 'Tech Solutions Inc.', '8765432108'),
+('Marketing', 'Digital Marketing Pros', '7654321097'),
+('Physics', 'Quantum Dynamics Research', '5432108765'),
+('Political Science', 'Government Affairs Inc.', '4321097654'),
+('Finance', 'Capital Investments LLC', '2109876542'),
+('Computer Engineering', 'Tech Innovators Ltd.', '9988776650'),
+('Mathematics', 'Data Analytics Co.', '8877665544'),
+('Psychology', 'Mindful Solutions', '6655443322'),
+('Economics', 'Financial Strategies Group', '4433221100'),
+('Computer Science', 'Tech Solutions Inc.', '2233445500'),
+('Marketing', 'Social Media Innovations', '3344556600'),
+('Environmental Science', 'Green Earth Solutions', '4455667700'),
+('Business Administration', 'Global Enterprises', '667788958'),
+('Computer Engineering', 'Tech Innovators Ltd.', '8899001111'),
+('Physics', 'Quantum Dynamics Research', '2233445560'),
+('Political Science', 'Government Affairs Inc.', '3344556670'),
+('Finance', 'Investment Ventures LLC', '4455667780'),
+('Psychology', 'Mindful Solutions', '5566200090'),
+('Economics', 'Financial Strategies Group', '7788990012'),
+('Computer Science', 'Tech Solutions Inc.', '6022334460'),
+('Marketing', 'Digital Marketing Pros', '6677889905'),
+('Environmental Science', 'Green Earth Solutions', '7788990016'),
+('Business Administration', 'Global Enterprises', '8899001127'),
+('Computer Engineering', 'Tech Innovators Ltd.', '1122334468'),
+('Mathematics', 'Data Analytics Co.', '2233445569'),
+('Psychology', 'Mindful Solutions', '1122334469'),
+('Economics', 'Financial Strategies Group', '3344556673'),
+('Computer Science', 'Tech Solutions Inc.', '4455667784'),
+('Marketing', 'Social Media Innovations', '5520778895'),
+('Physics', 'Quantum Dynamics Research', '7788990017'),
+('Political Science', 'Government Affairs Inc.', '8899001128'),
+('Finance', 'Investment Ventures LLC', '1122334470'),
+('Computer Engineering', 'Tech Innovators Ltd.', '2233445571'),
+('Mathematics', 'Data Analytics Co.', '3344556674'),
+('Psychology', 'Mindful Solutions', '4455667785'),
+('Economics', 'Financial Strategies Group', '2233578896');
+
 
 
 
