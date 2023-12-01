@@ -401,7 +401,7 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('9900112233', '9559901122'),
 ('0011223344', '9550011223');
 
---------- replaced NSHEID with actual NSHE
+--------- replaced NSHEID with actual NSHEID from
 
 -- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis_Topic, Assistant_Type)
