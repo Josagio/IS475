@@ -802,7 +802,7 @@ VALUES --ChatGPT
     (404040, 'Climate Change and Global Health', 'Research Assistant'),
     (414141, 'Educational Gamification', 'Teaching Assistant');
 -- update stu_grad data--
-udate STU_GRAD
+udate  STU_GRAD
 set = Thesis = 'Bladerunner cultural significance'
 where nshe= 111111
 
