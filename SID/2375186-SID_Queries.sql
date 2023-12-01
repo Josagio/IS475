@@ -4,7 +4,7 @@ SELECT Club_Name FROM CLUB WHERE Budget > 5000;
 #The number of clubs
 SELECT COUNT(*) AS ClubCount FROM CLUB;
 
-#Update budget for Melody Makers -----IS THIS MEANT TO BE HERE
+#Update budget for Melody Makers -----IS THIS MEANT TO BE HERE? 
 UPDATE CLUB SET Budget = 7000 WHERE Club_ID = '10003';
 
 #Average budget for all the clubs
