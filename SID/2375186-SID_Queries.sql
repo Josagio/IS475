@@ -51,6 +51,6 @@ FROM CLUB
 LEFT Outer JOIN JOINS
 ON CLUB.Club_ID = JOINS.CLUB_ID
 GROUP BY
-    c.Club_ID, c.Club_Name
+    C.Club_ID, c.Club_Name
 HAVING
     COUNT(DISTINCT j.NSHE_ID) < 5;
