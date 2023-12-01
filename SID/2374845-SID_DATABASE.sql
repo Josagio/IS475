@@ -294,6 +294,7 @@ Assistant_Type Varchar (20) not null
 -- Insert sample data into STU_GRAD
 -- Insert sample data into STU_GRAD
 -- Insert sample data into STU_GRAD
+-- Insert sample data into STU_GRAD
 INSERT INTO STU_GRAD (NSHE_ID, Thesis, Assistant_Type)
 VALUES
 ('1234567890', 'ML Algorithms for Image Recognition', 'Research'),
@@ -306,13 +307,38 @@ VALUES
 ('6677889900', 'Enhancing Cybersecurity in Modern Networks', 'Teaching'),
 ('1122334455', 'Economic Impact of Global Pandemics', 'Research'),
 ('5566778899', 'Mental Health Awareness in Education', 'Teaching'),
-('3322114455', 'Role of AI in Financial Forecasting', 'Research'),
-('5544332211', 'Social Media on Body Image Perception', 'Teaching'),
-('2233445566', 'Advancements in Sustainable Architecture', 'Research'),
-('7788990011', 'Potential of 3D Printing in Manufacturing', 'Teaching'),
-('2001922785', 'Future of Space Exploration and Colonization', 'Research'),
-('3344556677', 'Diversity and Inclusion in the Workplace', 'Teaching'),
-(' 
+('5544332211', 'Social Media on Body Image Perception', 'Research'),
+('2233445566', 'Advancements in Sustainable Architecture', 'Teaching'),
+('7788990011', 'Potential of 3D Printing in Manufacturing', 'Research'),
+('2001922785', 'Future of Space Exploration and Colonization', 'Teaching'),
+('3344556677', 'Diversity and Inclusion in the Workplace', 'Research'),
+('1022334455', 'Augmented Reality in Education', 'Teaching'),
+('5566768899', 'Influence of Music on Emotional Well-being', 'Research'),
+('1122334456', 'Impact of Climate Change on Ecosystems', 'Teaching'),
+('5566778896', 'Sustainable Fashion Practices', 'Research'),
+('1122334457', 'Renewable Energy Storage Technologies', 'Teaching'),
+('5566778895', 'Cultural Influences on Consumer Behavior', 'Research'),
+('1122334458', 'Robotics in Modern Manufacturing', 'Teaching'),
+('5566778894', 'Eco-friendly Transportation Solutions', 'Research'),
+('1122334459', 'Blockchain Technology in Finance', 'Teaching'),
+('5566778893', 'Impact of Social Media on Political Activism', 'Research'),
+('1122334460', 'Biomedical Engineering Advancements', 'Teaching'),
+('5566778892', 'Mental Health Support in the Workplace', 'Research'),
+('1122334461', 'Genetics of Neurological Disorders', 'Teaching'),
+('5566778891', 'Virtual Reality in Education', 'Research'),
+('1122334462', 'Sustainable Agriculture Practices', 'Teaching'),
+('5566778890', 'Gender Equality in the Tech Industry', 'Research'),
+('1122334463', 'Renewable Energy Generation Advancements', 'Teaching'),
+('5566778889', 'Social Media Impact on Teenagers'' Mental Health', 'Research'),
+('1122334464', 'Automation Impact on Employment Trends', 'Teaching'),
+('5566778888', 'Environmental Awareness in Local Communities', 'Research'),
+('1122334465', 'Genetics of Aging', 'Teaching'),
+('5566778887', 'AI for Healthcare Advancements', 'Research'),
+('1122334466', 'Cultural Background on Consumer Preferences', 'Teaching'),
+('5566778886', 'Cybersecurity Awareness in Educational Settings', 'Research'),
+('1122334467', 'Quantum Computing in Information Security', 'Teaching'),
+('5566778885', 'Technology Impact on Human Relationships', 'Research'),
+('2001699515', 'Financial Literacy in Underserved Communities', 'Teaching');
 
 
 
