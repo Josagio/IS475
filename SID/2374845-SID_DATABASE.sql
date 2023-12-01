@@ -61,7 +61,7 @@ INSERT INTO STUDENT VALUES
 ('5566778886', 'Jackson', 'Bryant', 'P', 3.6, 'G'),
 ('1122334467', 'Liam', 'Kelly', 'F', 3.1, 'U'),
 ('5566778885', 'Lily', 'Gonzalez', 'P', 3.2, 'G'),
-('2001699515', 'JP', 'Morgan', 'P', 3.7, 'U')
+('2001699515', 'JP', 'Morgan', 'P', 3.7, 'U'),
 ('3334445556', 'Eva', 'Brown', 'P', 3.7, 'G'),
 ('2244123456', 'Michael', 'Taylor', 'F', 2.5, 'U'),
 ('6543210987', 'Sophie', 'Martin', 'P', 3.6, 'G'),
@@ -134,6 +134,18 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Geology', 'Geological Exploration Company', '1122334467'),
 ('Theater', 'Theater Production Company', '5566778885'),
 ('Civil Engineering', 'Construction Engineering Ltd.', '2001699515');
+
+('3334445556', 'Eva', 'Brown', 'P', 3.7, 'G'),
+('2244123456', 'Michael', 'Taylor', 'F', 2.5, 'U'),
+('6543210987', 'Sophie', 'Martin', 'P', 3.6, 'G'),
+('8901234567', 'William', 'Lee', 'F', 3.0, 'U'),
+('2345678901', 'Emma', 'Johnson', 'P', 3.9, 'G'),
+('4567890123', 'Daniel', 'Clark', 'F', 2.7, 'U'),
+('5678991234', 'Ava', 'Garcia', 'P', 3.8, 'G'),
+('6789012345', 'Matthew', 'Wang', 'F', 3.2, 'U'),
+('7890123456', 'Grace', 'Smith', 'P', 3.5, 'G'),
+('9012345678', 'Caleb', 'Baker', 'F', 2.9, 'U');
+
 
 ---Data deletion
 DELETE FROM STU_UNDERGRAD
