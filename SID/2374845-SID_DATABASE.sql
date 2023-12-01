@@ -291,12 +291,6 @@ UPDATE CLUB SET Budget = 820 WHERE Club_ID = '10049';
 UPDATE CLUB SET Budget = 7200 WHERE Club_ID = '10050';
 
 
--- Replace the NULL values with new unique values
-UPDATE CLUB
-SET Budget = CASE
-    WHEN Budget IS NULL THEN 10000 + Club_ID
-    ELSE Budget
-END;
 
 
 
