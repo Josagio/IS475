@@ -133,7 +133,7 @@ INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES
 ('Management Information Systems', 'MIS Solutions Inc.', '5566778886'),
 ('Geology', 'Geological Exploration Company', '1122334467'),
 ('Theater', 'Theater Production Company', '5566778885'),
-('Civil Engineering', 'Construction Engineering Ltd.', '2001699515');
+('Civil Engineering', 'Construction Engineering Ltd.', '2001699515')
 ('Computer Science', 'Tech Solutions Inc.', '3334445556'),
 ('Marketing', 'Marketing Agency XYZ', '2244123456'),
 ('Electrical Engineering', 'Power Systems Co.', '6543210987'),
