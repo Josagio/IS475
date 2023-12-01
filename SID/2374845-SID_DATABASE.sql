@@ -490,7 +490,7 @@ Position Char(1)
 );
 
 --
--- Dumping data for table customer
+-- Dumping data for table STAFF
 --
 
 INSERT INTO STAFF (Staff_ID, First_Name, Last_Name, Position)
