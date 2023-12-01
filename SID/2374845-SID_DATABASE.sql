@@ -463,7 +463,11 @@ VALUES
 (10047721, 139),
 (10283473, 140);
 
-
+CREATE TABLE STU_UNDERGRAD(
+    Minor varchar(55) not null,
+    Internship_Exp varchar(35),
+    NSHE_ID char(10) primary key references STUDENT(NSHE_ID)
+);
 
 Create table MAJOR(
 NSHE_ID char (10) primary key references Student(NSHE_ID),
