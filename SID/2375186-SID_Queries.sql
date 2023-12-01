@@ -34,7 +34,7 @@ SELECT Enrollment, COUNT(*) AS Student_Count FROM STUDENT GROUP BY Enrollment;
 
 
 #Let me know your thoughts
----Show
+---Showcase 
 SELECT * FROM STUDENT
 RIGHT OUTER JOIN STU_UNDERGRAD
 ON STUDENT.NSHE_ID=STU_UNDERGRAD.NSHE_ID;
