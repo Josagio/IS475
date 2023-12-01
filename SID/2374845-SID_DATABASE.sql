@@ -509,7 +509,7 @@ Club_ID char(5) not null references CLUB(Club_ID),
 Staff_ID char (8) not null references STAFF(Staff_ID)
 );
 
-    -- Insert sample data into ENDORSES
+    
     -- Insert sample data into ENDORSES
 INSERT INTO ENDORSES (Club_ID, Staff_ID) VALUES
 ('10001', '321645'),
