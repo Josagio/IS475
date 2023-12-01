@@ -230,7 +230,7 @@ CREATE TABLE STUDENT_PHONE(
     Phone_Number varchar(10) primary key
 
 );
-#Data Update for STUDENT_PHONE 
+---Data Update for STUDENT_PHONE 
 Alter Table STUDENT_PHONE
     modify Phone_Number varchar(10);
 
