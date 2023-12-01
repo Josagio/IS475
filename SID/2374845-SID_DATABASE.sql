@@ -346,9 +346,10 @@ VALUES --ChatGPT
     (414141, 'Educational Gamification', 'Teaching Assistant');
 
 -- alter STU_GRAD
-udate STU_GRAD
-set = Thesis = 'Bladerunner cultural significance'
-where nshe= 111111;
+UPDATE STU_GRAD
+SET Thesis = 'Bladerunner cultural significance'
+WHERE Club_ID = '111111'
+
 
     -- Insert sample data into ENDORSES
     INSERT INTO ENDORSES (Club_ID, Staff_ID)
