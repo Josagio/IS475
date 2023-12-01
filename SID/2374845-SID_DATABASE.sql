@@ -504,7 +504,6 @@ WHERE NSHE_ID = '5566778899';
 
 
 
-
 CREATE Table ENDORSES(
 Club_ID char(5) not null references CLUB(Club_ID),
 Staff_ID char (8) not null references STAFF(Staff_ID)
