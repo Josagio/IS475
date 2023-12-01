@@ -46,4 +46,3 @@ Where Student_Type='U'; 26 Each
 
 
 MAJOR
-SUTDENT_PHONE
