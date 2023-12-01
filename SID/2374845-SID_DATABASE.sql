@@ -435,7 +435,7 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('3344556680', 'Emma', 'Floyd', 'F', 3.1, 'G'),
 ('4455667791', 'Daniel', 'Bryant', 'P', 3.7, 'G'),
 ('5569018892', 'Ava', 'Kelly', 'F', 3.4, 'G'),
-('6677889914', 'Liam', 'Gonzalez', 'P', 3.8, 'G'),
+('6677889914', 
 ('7788990025', 
 ('8899001136', 
 
