@@ -435,7 +435,7 @@ WHERE MAJOR_NAME = 'Chinese'
 
 ##DATA ENTRY FOR TABLES
 -- Replace data in MAJOR table with data from STUDENT table
-INSERT INTO MAJOR (NSHE_ID, Major_)
+INSERT INTO MAJOR (NSHE_ID, Major_Name)
 VALUES
 ('1234567890', 'International Business'), 
 ('9876543210', 'Entrepreneurship'),
