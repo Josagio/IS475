@@ -473,7 +473,7 @@ INSERT INTO MAJOR (NSHE_ID, Major_Name) VALUES
 ('2001699515', 'Music Composition');
 
 ---Data deletion
- DELETE from MAJOR
+DELETE from MAJOR
 WHERE NSHE_ID = '222222'
 
 ---UPDATE 222222
