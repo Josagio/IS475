@@ -60,8 +60,9 @@ Where STAFF.Staff_ID = '313501';
 
 ---- How man clubs have more members than Astronomy Club
 SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID) as '# of Members'
-FROM CLUB
-WHERE 
+FROM CLUB, JOINS
+Where CLUB.CLUB_ID = JOINS.CLUB_ID
+GROUP BY Club_Name
 
 SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID)
 FROM CLUB, JOINS
