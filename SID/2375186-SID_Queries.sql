@@ -58,7 +58,7 @@ Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
 Where STAFF.Staff_ID = '313501';
 
----- How man clubs have more members than 
+---- How man clubs have more members than As
 SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID)
 FROM CLUB
 WHERE 
