@@ -178,6 +178,7 @@ Alter Table CLUB
 ---It is case sensitive. It will not find it if not spelled exact
 Alter Table CLUB 
     ADD COLUMN Budget decimal(7.2);
+    
 
 -- Data Insertion with Assigned Budgets
 INSERT INTO CLUB (Club_ID, Purpose, Club_Name, Budget) VALUES
