@@ -495,7 +495,8 @@ VALUES
     ('9876543210', 'Digital Sociology Impact on Society', 'Research Assistant');
 
 -- delete STU_GRAD
-
+DELETE FROM CLUB
+WHERE Club_ID='10051'
 
 -- alter STU_GRAD
 Alter table STU_GRAD
