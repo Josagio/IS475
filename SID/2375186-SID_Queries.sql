@@ -53,7 +53,7 @@ HAVING
 ---- what clubs has (313501, 'KARYN', 'BACHMEIER', 'I'), endorsed
 SELECT Club_Name 
 From CLUB
-Inner Join 
+Inner Join STAFF
 
 SELECT * FROM MAJOR;
 
