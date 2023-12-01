@@ -482,7 +482,7 @@ INSERT INTO MAJOR (NSHE_ID, Major) VALUES
 (474747, 'German Studies')
 (484848, 'Gerontology') 
 (494949, 'Science');
-;
+
 
 
 
