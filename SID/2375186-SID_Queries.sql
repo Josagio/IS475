@@ -46,7 +46,7 @@ SELECT COUNT(Student_Type)
 From STUDENT
 Where Student_Type='U'; 
 
-SELECT Club.Club_Name, COUNT(Joins.NSHE_ID) AS StudentCount
+SELECT Club.Club_Name, COUNT(J.NSHE_ID) AS StudentCount
 FROM
     CLUB c
 LEFT JOIN
