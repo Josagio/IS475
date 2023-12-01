@@ -34,3 +34,6 @@ SELECT Enrollment, COUNT(*) AS Student_Count FROM STUDENT GROUP BY Enrollment;
 
 
 #Let me know your thoughts
+SELECT * FROM Product
+RIGHT OUTER JOIN Promotion
+ON Product.Product_ID=Promotion.Product_ID;
