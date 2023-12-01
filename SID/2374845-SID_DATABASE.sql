@@ -181,9 +181,6 @@ CREATE TABLE STU_UNDERGRAD(
 
 
 
-
-
-
 INSERT INTO STU_UNDERGRAD (Minor, Internship_Exp, NSHE_ID) VALUES 
 ('Computer Science', 'Tech Innovators', '1022334455'),
 ('Business Administration', 'Global Ventures', '1098764321'),
