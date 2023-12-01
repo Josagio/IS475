@@ -605,7 +605,7 @@ VALUES (321645, 'KIM', 'ANTUNES', 'A'),
 
 CREATE Table ENDORSES(
 Club_ID char(5) not null references CLUB(Club_ID) on update cascade,
-Staff_ID char (8) not null references STAFF(Staff_ID )
+Staff_ID char (8) not null references STAFF(Staff_ID on update cascade)
 );
 
 
