@@ -72,7 +72,7 @@ HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
 SELECT Major_Name, COUNT(*) AS Students
 FROM MAJOR
 GROUP BY Major_Name
-ORDER BY '# of Students' DESC
+ORDER BY Students DESC
 LIMIT 1;
 
 ------Which are the GPA averages in the university between Undergrad students and grad students.
