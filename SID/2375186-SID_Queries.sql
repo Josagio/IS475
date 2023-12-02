@@ -69,6 +69,7 @@ HAVING Members > (SELECT COUNT(DISTINCT JOINS.NSHE_ID)
                     AND C.Club_Name ='Astronomy Club');
 
 
+
 SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID)
 FROM CLUB, JOINS
 Where CLUB.CLUB_ID = JOINS.CLUB_ID
