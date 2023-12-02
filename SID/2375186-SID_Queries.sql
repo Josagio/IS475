@@ -69,7 +69,7 @@ HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
                     AND C.Club_Name ='Astronomy Club');
 
 ------Which
-SELECT Major_Name, COUNT(*) AS 'EntryCount'
+SELECT Major_Name, COUNT(*) AS '# of '
 FROM MAJOR
 GROUP BY Major_Name
 ORDER BY EntryCount DESC
