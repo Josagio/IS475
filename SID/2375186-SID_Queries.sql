@@ -66,7 +66,7 @@ GROUP BY Club_Name
 HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
                     FROM CLUB C, JOINS J
                     WHERE C.CLUB_ID = J.CLUB_ID
-                    AND C.Club_Name ='Astronomy Club';
+                    AND C.Club_Name ='Astronomy Club');
 
                     
 
