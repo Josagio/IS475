@@ -76,7 +76,7 @@ ORDER BY EntryCount DESC
 LIMIT 1;
 
 ------Which are the GPA averages in the university between Undergrad students and grad students.
-SELECT Student_Type, AVG(GPA) AS AverageGPA
+SELECT Student_Type, AVG(GPA) AS 'AverageGPA
 FROM
     STUDENT
 GROUP BY
