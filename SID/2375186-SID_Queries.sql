@@ -75,7 +75,7 @@ GROUP BY Major_Name
 ORDER BY EntryCount DESC
 LIMIT 1;
 
-------Which are the GPA 
+------Which are the GPA averages in the university bet
 SELECT
     Student_Type,
     AVG(GPA) AS AverageGPA
