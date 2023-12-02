@@ -75,7 +75,7 @@ GROUP BY Major_Name
 ORDER BY EntryCount DESC
 LIMIT 1;
 
-------Which major 
+------Which are the 
 SELECT
     Student_Type,
     AVG(GPA) AS AverageGPA
