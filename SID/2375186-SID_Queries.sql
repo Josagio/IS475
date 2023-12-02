@@ -74,3 +74,11 @@ FROM MAJOR
 GROUP BY Major_Name
 ORDER BY EntryCount DESC
 LIMIT 1;
+
+SELECT
+    Student_Type,
+    AVG(GPA) AS AverageGPA
+FROM
+    STUDENT
+GROUP BY
+    Student_Type;
