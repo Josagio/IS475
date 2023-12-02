@@ -80,4 +80,4 @@ SELECT Student_Type, AVG(GPA) AS 'Average GPA'
 FROM STUDENT
 GROUP BY Student_Type;
 
------------LET ME KNOW YOUR THOUGHTS!
+-----------LET ME KNOW YOUR THOUGHTS! Robert
