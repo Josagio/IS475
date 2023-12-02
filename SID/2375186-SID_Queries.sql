@@ -69,7 +69,7 @@ HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
                     AND C.Club_Name ='Astronomy Club');
 
 ------Which major has the most students enrolled
-SELECT Major_Name, COUNT(*) AS 
+SELECT Major_Name, COUNT(*) AS Students
 FROM MAJOR
 GROUP BY Major_Name
 ORDER BY '# of Students' DESC
