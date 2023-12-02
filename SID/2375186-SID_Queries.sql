@@ -78,5 +78,4 @@ LIMIT 1;
 ------Which are the GPA averages in the university between Undergrad students and grad students.
 SELECT Student_Type, AVG(GPA) AS 'Average GPA'
 FROM STUDENT
-GROUP BY
-    Student_Type;
+GROUP BY Student_Type;
