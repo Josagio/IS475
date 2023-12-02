@@ -69,10 +69,10 @@ HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
                     AND C.Club_Name ='Astronomy Club');
 
 ------Which major has the most students enrolled
-SELECT Major_Name, COUNT(*) AS NoStudents
+SELECT Major_Name, COUNT(*) AS No_Students
 FROM MAJOR
 GROUP BY Major_Name
-ORDER BY Students DESC
+ORDER BY No_Students DESC
 LIMIT 1;
 
 ------Which are the GPA averages in the university between Undergrad students and grad students.
