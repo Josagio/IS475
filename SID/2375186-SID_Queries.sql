@@ -68,7 +68,7 @@ HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
                     WHERE C.CLUB_ID = J.CLUB_ID
                     AND C.Club_Name ='Astronomy Club');
 
-
+------
 
 SELECT * FROM MAJOR;
 
