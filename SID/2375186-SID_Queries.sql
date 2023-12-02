@@ -79,3 +79,5 @@ LIMIT 1;
 SELECT Student_Type, AVG(GPA) AS 'Average GPA'
 FROM STUDENT
 GROUP BY Student_Type;
+
+-----------
