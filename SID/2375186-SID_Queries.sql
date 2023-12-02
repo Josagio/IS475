@@ -63,10 +63,10 @@ SELECT Club_Name, COUNT(DISTINCT JOINS.NSHE_ID) as Members
 FROM CLUB, JOINS
 Where CLUB.CLUB_ID = JOINS.CLUB_ID
 GROUP BY Club_Name
-HAVING Members > (SELECT COUNT(DISTINCT JOINS.NSHE_ID)
+HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
                     FROM CLUB C, JOINS J
                     WHERE C.CLUB_ID = J.CLUB_ID
-                    AND C.Club_Name ='Astronomy Club');
+                    AND C.Club_Name ='Astronomy Club';;
 
                     
 
