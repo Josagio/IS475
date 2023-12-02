@@ -70,7 +70,6 @@ HAVING Members > (SELECT COUNT(DISTINCT J.NSHE_ID)
 
                     
 
-
 SELECT * FROM MAJOR;
 
 SELECT COUNT(Student_Type)
