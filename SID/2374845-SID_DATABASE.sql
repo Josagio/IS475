@@ -364,7 +364,9 @@ CREATE TABLE STUDENT_PHONE(
     Phone_Number varchar(10) primary key
 
 );
-
+---Data Update for STUDENT_PHONE 
+Alter Table STUDENT_PHONE
+    modify Phone_Number varchar(10);
 
 
 ---DATA ENTRY FOR TABLES
@@ -435,12 +437,6 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('6677889914', '5567626689'),
 ('7788990025', '2023648234'),
 ('8899001136', '7751123581');
-
----Data Update for STUDENT_PHONE 
-Alter Table STUDENT_PHONE
-    modify Phone_Number varchar(10);
-
-    
 
 
 CREATE Table STU_GRAD(
