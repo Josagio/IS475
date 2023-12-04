@@ -357,7 +357,6 @@ WHERE Club_ID = '10013'
 
 ---UPDATE FOR VALUES IN BUDGET COLUMN FOR CLUB_ID 
 
-
 CREATE TABLE STUDENT_PHONE(
     NSHE_ID char(10) references STUDENT(NSHE_ID),
     Phone_Number varchar(10) primary key
