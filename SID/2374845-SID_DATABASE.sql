@@ -436,6 +436,10 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('7788990025', '2023648234'),
 ('8899001136', '7751123581');
 
+---Data Update for STUDENT_PHONE 
+Alter Table STUDENT_PHONE
+    modify Phone_Number varchar(10);
+
 
 CREATE Table STU_GRAD(
 NSHE_ID char(10) primary key references STUDENT(NSHE_ID),
