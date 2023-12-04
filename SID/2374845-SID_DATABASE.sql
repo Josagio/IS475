@@ -439,6 +439,14 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('8899001136', '7751123581');
 
 
+---Data deletion
+DELETE FROM CLUB
+WHERE Club_ID='10051'
+
+---UPDATE 10013
+UPDATE CLUB
+SET Purpose = 'Develop and Talk about tech innovation'
+WHERE Club_ID = '10013'
 
 
 CREATE Table STU_GRAD(
