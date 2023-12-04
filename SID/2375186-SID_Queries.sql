@@ -20,7 +20,7 @@ SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
 
 
-#S 
+#show all the teachers that endorse a club 
 SELECT NSHE_ID, Phone_Number FROM STUDENT_PHONE;
 
 #Select phone number with 555
