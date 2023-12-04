@@ -2,7 +2,7 @@
 SELECT Club_Name, Budget, Purpose 
 FROM CLUB 
 WHERE Budget > 5000
-ORDER BY Budget ;
+ORDER BY Budget DESC;
 
 #The number of clubs
 SELECT COUNT(*) AS ClubCount FROM CLUB;
