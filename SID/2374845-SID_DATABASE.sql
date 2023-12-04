@@ -439,6 +439,8 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 ('8899001136', '7751123581');
 
 
+
+
 CREATE Table STU_GRAD(
 NSHE_ID char(10) primary key references STUDENT(NSHE_ID),
 Thesis Varchar (55) not null,
