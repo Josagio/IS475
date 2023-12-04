@@ -1,6 +1,7 @@
 #Retrieve club names for clubs with a budget greater than $5,000:
 SELECT Club_Name, Budget, Purpose 
-FROM CLUB WHERE Budget > 5000;
+FROM CLUB 
+WHERE Budget > 5000;
 
 #The number of clubs
 SELECT COUNT(*) AS ClubCount FROM CLUB;
