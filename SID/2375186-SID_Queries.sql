@@ -27,7 +27,7 @@ Inner Join ENDORSES
 On CLUB.Club_ID = ENDORSES.Club_ID
 Inner Join STAFF
 ON STAFF.Staff_ID = ENDORSES.Staff_ID
-Where STAFF.Staff_ID = '313501';;
+Where STAFF.Staff_ID = '313501';
 
 #Select phone number with 555
 SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
