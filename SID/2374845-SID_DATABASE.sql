@@ -440,6 +440,8 @@ INSERT INTO STUDENT_PHONE (NSHE_ID, PHONE_NUMBER) VALUES
 Alter Table STUDENT_PHONE
     modify Phone_Number varchar(10);
 
+    
+
 
 CREATE Table STU_GRAD(
 NSHE_ID char(10) primary key references STUDENT(NSHE_ID),
