@@ -33,7 +33,6 @@ ORDER BY CLUB.Club_Name ASC;
 SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
 
 #The number of students in each enrollment status:
-
 SELECT CLUB_ID, COUNT(NSHE_ID) AS StudentCount
 FROM JOINS
 GROUP BY CLUB_ID;
