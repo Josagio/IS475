@@ -4,7 +4,6 @@ SELECT Club_Name FROM CLUB WHERE Budget > 5000;
 #The number of clubs
 SELECT COUNT(*) AS ClubCount FROM CLUB;
 
-
 #Average budget for all the clubs
 SELECT AVG(Budget) AS AvgBudget FROM CLUB;
 
