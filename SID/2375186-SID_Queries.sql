@@ -32,7 +32,7 @@ ORDER BY CLUB.Club_Name ASC;
 #Select phone number with 555
 SELECT * FROM STUDENT_PHONE WHERE Phone_Number LIKE '555%';
 
-#The number of students in each clun:
+#The number of students in each club:
 SELECT CLUB_ID, COUNT(NSHE_ID) AS StudentCount
 FROM JOINS
 GROUP BY CLUB_ID;
