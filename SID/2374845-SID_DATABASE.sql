@@ -443,7 +443,7 @@ DELETE FROM STUDENT_PHONE
 WHERE Club_ID='10051'
 
 ---UPDATE phones
-UPDATE CLUB
+UPDATE STUDENT_PHONE
 SET Purpose = 'Develop and Talk about tech innovation'
 WHERE Club_ID = '10013'
 
