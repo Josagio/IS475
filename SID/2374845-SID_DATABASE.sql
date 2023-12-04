@@ -444,7 +444,7 @@ WHERE PHONE_NUMBER='5552044321'
 ---UPDATE phones
 UPDATE STUDENT_PHONE
 SET Purpose = 'Develop and Talk about tech innovation'
-WHERE Club_ID = '10013'
+WHERE NSHE_ID = '10013'
 
 
 CREATE Table STU_GRAD(
