@@ -21,7 +21,7 @@ WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpo
 
 
 #show all the teachers that endorse a club 
-SELECT CLUB.Club_Name, STAFF.First.Name 
+SELECT CLUB.Club_Name, STAFF.FirstName 
 From CLUB
 Inner Join ENDORSES
 On CLUB.Club_ID = ENDORSES.Club_ID
