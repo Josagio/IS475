@@ -42,7 +42,7 @@ SELECT * FROM STUDENT
 RIGHT OUTER JOIN STU_UNDERGRAD
 ON STUDENT.NSHE_ID=STU_UNDERGRAD.NSHE_ID;
 
----Find clubs that are currently ineligble based on University Policy
+---Find clubs that are currently ineligible based on University Policy
 SELECT CLUB.Club_Name AS 'Ineligble Club Name', COUNT(DISTINCT JOINS.NSHE_ID) AS '# of Student Members'
 FROM CLUB
 LEFT Outer JOIN JOINS
