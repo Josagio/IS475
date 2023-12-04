@@ -41,7 +41,6 @@ FROM JOINS
 GROUP BY CLUB_ID;
 
 
-#Let me know your thoughts ----Robert
 ---Showcase the full information of an Undergrad Student
 SELECT * FROM STUDENT
 RIGHT OUTER JOIN STU_UNDERGRAD
