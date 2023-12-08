@@ -23,7 +23,7 @@ SELECT * FROM CLUB
 WHERE (Purpose, Budget) IN (SELECT Purpose, MAX(Budget) FROM CLUB GROUP BY Purpose);
 
 
-#how all the teachers that endorse a club 
+#Show all the teachers that endorse a club 
 SELECT CLUB.Club_Name, STAFF.First_Name, STAFF.Last_Name 
 From CLUB
 Inner Join ENDORSES
